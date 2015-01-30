@@ -159,7 +159,7 @@ msgstr "データベース ファイルを開けませんでした。"
 
 #: DatabaseOpenWidget#7
 msgid "Can't open key file"
-msgstr "キー ファイルを削除しませんでした。エントリの削除"
+msgstr "キー ファイルを開けませんでした。"
 
 #: DatabaseOpenWidget#8
 msgctxt "DatabaseOpenWidget#8"
@@ -640,8 +640,9 @@ msgid "Can't delete icon!"
 msgstr "アイコン ファイルを削除しませんでした。"
 
 #: EditWidgetIcons#9
+#, fuzzy
 msgid "Can't delete icon. Still used by %n item(s)."
-msgstr "Aikon dilit feilen. Still in yus bai %n-gè aitèm."
+msgstr "アイコン ファイルを削除しませんでした。"
 
 #: EditWidgetProperties#1
 msgid "Created:"
@@ -653,7 +654,7 @@ msgstr "変更:"
 
 #: EditWidgetProperties#3
 msgid "Accessed:"
-msgstr "Aksesen:"
+msgstr "アクセスする:"
 
 #: EditWidgetProperties#4
 msgid "Uuid:"
@@ -710,7 +711,7 @@ msgstr "ごみ箱"
 #: KeePass1OpenWidget#1
 #, fuzzy
 msgid "Import KeePass1 database"
-msgstr "KeePass データベース (*.kdb)"
+msgstr "KeePass1 データベース輸入 (*.kdb)"
 
 #: KeePass1OpenWidget#2
 msgctxt "KeePass1OpenWidget#2"
@@ -738,10 +739,9 @@ msgid "Unsupported encryption algorithm."
 msgstr "未サポートの暗号化アルゴリズムです。"
 
 #: KeePass1Reader#4
-#, fuzzy
 msgctxt "KeePass1Reader#4"
 msgid "Unsupported KeePass database version."
-msgstr "未サポートのファイル バージョンです。"
+msgstr "未サポートのKeePass データベース バージョンです。"
 
 #: KeePass1Reader#5
 msgctxt "KeePass1Reader#5"
@@ -758,7 +758,7 @@ msgstr "KeePass データベース (*.kdb)"
 #, fuzzy
 msgctxt "KeePass2Reader#2"
 msgid "Unsupported KeePass database version."
-msgstr "未サポートのファイル バージョンです。"
+msgstr "未サポートのKeePass データベース バージョンです。"
 
 #: KeePass2Reader#3
 msgid "Wrong key or database file is corrupt."
@@ -801,7 +801,7 @@ msgstr "表示"
 
 #: MainWindow#9
 msgid "Quit"
-msgstr "Ziuru"
+msgstr "終了"
 
 #: MainWindow#10
 msgid "About"
@@ -869,7 +869,7 @@ msgstr "データベースの設定"
 
 #: MainWindow#24
 msgid "Import KeePass 1 database"
-msgstr "Importera KeePass1 databas"
+msgstr "KeePass1 データベースを輸入"
 
 #: MainWindow#25
 msgid "Clone entry"
