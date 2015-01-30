@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: KeePassX\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-27 15:51+0800\n"
-"PO-Revision-Date: 2015-01-29 19:38+0800\n"
+"PO-Revision-Date: 2015-01-30 12:57+0800\n"
 "Last-Translator: Babycasèny Gavèrnmènt <babycaseny@gmail.com>\n"
 "Language-Team: Babycaseny Gavèrnmènt\n"
 "Language: ja\n"
@@ -159,7 +159,7 @@ msgstr "データベース ファイルを開けませんでした。"
 
 #: DatabaseOpenWidget#7
 msgid "Can't open key file"
-msgstr "キー ファイルを開けませんでした。"
+msgstr "キー ファイルを削除しませんでした。エントリの削除"
 
 #: DatabaseOpenWidget#8
 msgctxt "DatabaseOpenWidget#8"
@@ -180,9 +180,8 @@ msgid "Database name:"
 msgstr "データベース キー"
 
 #: DatabaseSettingsWidget#2
-#, fuzzy
 msgid "Database description:"
-msgstr "データベースの設定"
+msgstr "データベースのの説明:"
 
 #: DatabaseSettingsWidget#3
 msgid "Transform rounds:"
@@ -203,7 +202,7 @@ msgstr "MiB"
 
 #: DatabaseSettingsWidget#7
 msgid "Benchmark"
-msgstr "Benchmark"
+msgstr "ベンチマーク"
 
 #: DatabaseSettingsWidget#8
 msgid "Max. history items:"
@@ -505,9 +504,8 @@ msgid "Delete"
 msgstr "削除"
 
 #: EditEntryWidgetHistory#4
-#, fuzzy
 msgid "Delete all"
-msgstr "削除"
+msgstr "すべての削除"
 
 #: EditEntryWidgetMain#1
 msgid "Title:"
@@ -639,7 +637,7 @@ msgstr "イメージ ファイルの選択"
 
 #: EditWidgetIcons#8
 msgid "Can't delete icon!"
-msgstr "Aikon dilit feilen!"
+msgstr "アイコン ファイルを削除しませんでした。"
 
 #: EditWidgetIcons#9
 msgid "Can't delete icon. Still used by %n item(s)."
@@ -1019,7 +1017,7 @@ msgstr "オプション:"
 
 #: QCommandLineParser#10
 msgid "Arguments:"
-msgstr ""
+msgstr "引数:"
 
 #: QSaveFile#1
 msgid "Existing file %1 is not writable"
@@ -1079,9 +1077,8 @@ msgid "Root group"
 msgstr ""
 
 #: SettingsWidget#1
-#, fuzzy
 msgid "Application Settings"
-msgstr "メイン アプリケーションのアイコン"
+msgstr "アプリケーション設定"
 
 #: SettingsWidget#2
 msgid "General"
@@ -1106,11 +1103,11 @@ msgstr ""
 
 #: SettingsWidgetGeneral#4
 msgid "Automatically save on exit"
-msgstr ""
+msgstr "終了時に自動的に保存する"
 
 #: SettingsWidgetGeneral#5
 msgid "Automatically save after every change"
-msgstr ""
+msgstr "ごとに変更後に自動的に保存する"
 
 #: SettingsWidgetGeneral#6
 msgid "Minimize when copying to clipboard"
@@ -1146,9 +1143,8 @@ msgid "Show passwords in cleartext by default"
 msgstr "プレーン テキストでパスワードを表示する:"
 
 #: SettingsWidgetSecurity#5
-#, fuzzy
 msgid "Always ask before performing auto-type"
-msgstr "常にエントリまたはグループの削除前に質問する"
+msgstr "常に自動入力実行の前に質問する"
 
 #: UnlockDatabaseWidget#1
 #, fuzzy
