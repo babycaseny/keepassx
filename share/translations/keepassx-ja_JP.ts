@@ -22,8 +22,7 @@ KeePassX は General Public License (GPL) version 2 以降の
         </message>
         <message>
             <source>Couldn't find an entry that matches the window title.</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>ウィンドウタイトルと一致するエントリが見つかりませんでした。</translation>
         </message>
     </context>
     <context>
@@ -39,7 +38,7 @@ KeePassX は General Public License (GPL) version 2 以降の
         </message>
         <message>
             <source>Default sequence</source>
-            <translation>システム既定順序</translation>
+            <translation>システムの既定順序</translation>
         </message>
     </context>
     <context>
@@ -65,7 +64,7 @@ KeePassX は General Public License (GPL) version 2 以降の
         </message>
         <message>
             <source>Repeat password:</source>
-            <translation type="unfinished">新しいパスワード:</translation>
+            <translation>パスワードを再度入力してください:</translation>
         </message>
         <message>
             <source>Key file</source>
@@ -105,7 +104,7 @@ KeePassX は General Public License (GPL) version 2 以降の
         </message>
         <message>
             <source>Question</source>
-            <translation type="unfinished">作成</translation>
+            <translation>質問</translation>
         </message>
         <message>
             <source>Do you really want to use an empty string as password?</source>
@@ -163,11 +162,11 @@ KeePassX は General Public License (GPL) version 2 以降の
         <name>DatabaseSettingsWidget</name>
         <message>
             <source>Database name:</source>
-            <translation>データベース キー</translation>
+            <translation>データベース の名:</translation>
         </message>
         <message>
             <source>Database description:</source>
-            <translation type="unfinished">データベースの設定</translation>
+            <translation>データベースの説明:</translation>
         </message>
         <message>
             <source>Transform rounds:</source>
@@ -175,7 +174,7 @@ KeePassX は General Public License (GPL) version 2 以降の
         </message>
         <message>
             <source>Default username:</source>
-            <translation>システム既定ユーザー名:</translation>
+            <translation>システムの既定ユーザー名:</translation>
         </message>
         <message>
             <source>Use recycle bin:</source>
@@ -187,7 +186,7 @@ KeePassX は General Public License (GPL) version 2 以降の
         </message>
         <message>
             <source>Benchmark</source>
-            <translation>Benchmark</translation>
+            <translation>ベンチマーク</translation>
         </message>
         <message>
             <source>Max. history items:</source>
@@ -319,7 +318,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Current group</source>
-            <translation>Körrènt grūp</translation>
+            <translation>現在のグループ</translation>
         </message>
     </context>
     <context>
@@ -411,7 +410,7 @@ Spara ändringarna?</translation>
         <name>EditEntryWidgetAdvanced</name>
         <message>
             <source>Additional attributes</source>
-            <translation>Äddeiçionol attribyuts</translation>
+            <translation>追加の属性</translation>
         </message>
         <message>
             <source>Add</source>
@@ -438,7 +437,7 @@ Spara ändringarna?</translation>
         <name>EditEntryWidgetAutoType</name>
         <message>
             <source>Enable Auto-Type for this entry</source>
-            <translation>Slå på auto-skriv för denna post</translation>
+            <translation>このエントリの自動入力を有効化</translation>
         </message>
         <message>
             <source>Inherit default Auto-Type sequence from the group</source>
@@ -485,7 +484,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Delete all</source>
-            <translation type="unfinished">削除</translation>
+            <translation>すべての削除</translation>
         </message>
     </context>
     <context>
@@ -504,7 +503,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Repeat:</source>
-            <translation>Rīpīt:</translation>
+            <translation>再度入力:</translation>
         </message>
         <message>
             <source>Gen.</source>
@@ -617,11 +616,11 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Can't delete icon!</source>
-            <translation>Aikon dilit feilen!</translation>
+            <translation>アイコン ファイルを削除しませんでした。</translation>
         </message>
         <message>
             <source>Can't delete icon. Still used by %n item(s).</source>
-            <translation>Aikon dilit feilen. Still in yus bai %n-gè aitèm.</translation>
+            <translation type="unfinished">アイコン ファイルを削除しませんでした。</translation>
         </message>
     </context>
     <context>
@@ -636,7 +635,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Accessed:</source>
-            <translation>Aksesen:</translation>
+            <translation>アクセスする:</translation>
         </message>
         <message>
             <source>Uuid:</source>
@@ -699,7 +698,7 @@ Spara ändringarna?</translation>
         <name>KeePass1OpenWidget</name>
         <message>
             <source>Import KeePass1 database</source>
-            <translation type="unfinished">KeePass データベース (*.kdb)</translation>
+            <translation type="unfinished">KeePass1 データベース輸入 (*.kdb)</translation>
         </message>
         <message>
             <source>Error</source>
@@ -714,7 +713,7 @@ Spara ändringarna?</translation>
         <name>KeePass1Reader</name>
         <message>
             <source>Unable to read keyfile.</source>
-            <translation type="unfinished">キー ファイルを選択してください。</translation>
+            <translation>キー ファイルを作成してください</translation>
         </message>
         <message>
             <source>Not a KeePass database.</source>
@@ -726,7 +725,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Unsupported KeePass database version.</source>
-            <translation type="unfinished">未サポートのファイル バージョンです。</translation>
+            <translation>未サポートのKeePass データベース バージョンです。</translation>
         </message>
         <message>
             <source>Root</source>
@@ -741,7 +740,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Unsupported KeePass database version.</source>
-            <translation type="unfinished">未サポートのファイル バージョンです。</translation>
+            <translation type="unfinished">未サポートのKeePass データベース バージョンです。</translation>
         </message>
         <message>
             <source>Wrong key or database file is corrupt.</source>
@@ -768,7 +767,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Copy attribute to clipboard</source>
-            <translation type="unfinished">クリップボードへユーザー名をコピー</translation>
+            <translation>クリップボードへ属性をコピー</translation>
         </message>
         <message>
             <source>Groups</source>
@@ -776,7 +775,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Extras</source>
-            <translation type="unfinished">追加(&amp;X)</translation>
+            <translation>追加</translation>
         </message>
         <message>
             <source>View</source>
@@ -784,7 +783,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Quit</source>
-            <translation>Ziuru</translation>
+            <translation>終了</translation>
         </message>
         <message>
             <source>About</source>
@@ -844,7 +843,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Import KeePass 1 database</source>
-            <translation>Importera KeePass1 databas</translation>
+            <translation>KeePass1 データベースを輸入</translation>
         </message>
         <message>
             <source>Clone entry</source>
@@ -966,11 +965,11 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Unknown option '%1'.</source>
-            <translation type="unfinished">不明な暗号化アルゴリズムです。</translation>
+            <translation>不明な オプション '%1'。</translation>
         </message>
         <message>
             <source>Unknown options: %1.</source>
-            <translation type="unfinished">不明な暗号化アルゴリズムです。</translation>
+            <translation>不明な オプション: '%1'。</translation>
         </message>
         <message>
             <source>Missing value after '%1'.</source>
@@ -996,8 +995,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Arguments:</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>引数:</translation>
         </message>
     </context>
     <context>
@@ -1032,8 +1030,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Error opening underlying device: </source>
-            <translation type="unfinished">
-            </translation>
+            <translation>基本となるデバイスを開くエラー：</translation>
         </message>
         <message>
             <source>Error reading data from underlying device: </source>
@@ -1071,20 +1068,18 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Current group</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>現在のグループ</translation>
         </message>
         <message>
             <source>Root group</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Rootグループ</translation>
         </message>
     </context>
     <context>
         <name>SettingsWidget</name>
         <message>
             <source>Application Settings</source>
-            <translation type="unfinished">メイン アプリケーションのアイコン</translation>
+            <translation>アプリケーション設定</translation>
         </message>
         <message>
             <source>General</source>
@@ -1113,13 +1108,11 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Automatically save on exit</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>終了時に自動的に保存する</translation>
         </message>
         <message>
             <source>Automatically save after every change</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>ごとに変更後に自動的に保存する</translation>
         </message>
         <message>
             <source>Minimize when copying to clipboard</source>
@@ -1161,7 +1154,7 @@ Spara ändringarna?</translation>
         </message>
         <message>
             <source>Always ask before performing auto-type</source>
-            <translation type="unfinished">常にエントリまたはグループの削除前に質問する</translation>
+            <translation>常に自動入力実行の前に質問する</translation>
         </message>
     </context>
     <context>
@@ -1184,21 +1177,18 @@ Spara ändringarna?</translation>
         <name>WelcomeWidget</name>
         <message>
             <source>Welcome!</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>ようこそ！</translation>
         </message>
     </context>
     <context>
         <name>main</name>
         <message>
             <source>KeePassX - cross-platform password manager</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>KeePassX - クロスプラットフォームのパスワードマネージャ</translation>
         </message>
         <message>
             <source>filename of the password database to open (*.kdbx)</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>パスワードデータベースのファイル名が開くように (*.kdbx)</translation>
         </message>
         <message>
             <source>path to a custom config file</source>

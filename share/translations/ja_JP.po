@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: KeePassX\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-27 15:51+0800\n"
-"PO-Revision-Date: 2015-02-03 15:42+0800\n"
+"PO-Revision-Date: 2015-02-04 16:16+0800\n"
 "Last-Translator: Babycasèny Gavèrnmènt <babycaseny@gmail.com>\n"
 "Language-Team: Babycaseny Gavèrnmènt\n"
 "Language: ja\n"
@@ -434,7 +434,7 @@ msgstr "1年"
 
 #: EditEntryWidgetAdvanced#1
 msgid "Additional attributes"
-msgstr "Äddeiçionol attribyuts"
+msgstr "追加の属性"
 
 #: EditEntryWidgetAdvanced#2
 msgid "Add"
