@@ -8,7 +8,7 @@
         </message>
         <message>
             <source>KeePassX is distributed under the term of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-            <translation>Keepassx distribueras enligt villkoren i GNU General Public License (GPL) version 2 eller (om du vill) version 3.</translation>
+            <translation>KeePassX-wa distribyuten ùndèr villkoren i GNU General Public License (GPL) version 2 or (ùpon neidè opçion) version 3.</translation>
         </message>
     </context>
     <context>
