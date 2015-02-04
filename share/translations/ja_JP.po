@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: KeePassX\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-27 15:51+0800\n"
-"PO-Revision-Date: 2015-01-30 12:57+0800\n"
+"PO-Revision-Date: 2015-02-03 15:42+0800\n"
 "Last-Translator: Babycasèny Gavèrnmènt <babycaseny@gmail.com>\n"
 "Language-Team: Babycaseny Gavèrnmènt\n"
 "Language: ja\n"
@@ -36,7 +36,7 @@ msgstr "自動入力 - KeePassX"
 
 #: AutoType#2
 msgid "Couldn't find an entry that matches the window title."
-msgstr ""
+msgstr "ウィンドウタイトルと一致するエントリが見つかりませんでした。"
 
 #: AutoTypeAssociationsModel#1
 msgid "Window"
@@ -48,7 +48,7 @@ msgstr "順序"
 
 #: AutoTypeAssociationsModel#3
 msgid "Default sequence"
-msgstr "システム既定順序"
+msgstr "システムの既定順序"
 
 #: AutoTypeSelectDialog#1
 msgctxt "AutoTypeSelectDialog#1"
@@ -69,9 +69,8 @@ msgid "Enter password:"
 msgstr "パスワードを入力します:"
 
 #: ChangeMasterKeyWidget#3
-#, fuzzy
 msgid "Repeat password:"
-msgstr "新しいパスワード:"
+msgstr "パスワードを再度入力してください:"
 
 #: ChangeMasterKeyWidget#4
 msgid "Key file"
@@ -115,9 +114,8 @@ msgid "Select a key file"
 msgstr "キー ファイルの選択"
 
 #: ChangeMasterKeyWidget#13
-#, fuzzy
 msgid "Question"
-msgstr "作成"
+msgstr "質問"
 
 #: ChangeMasterKeyWidget#14
 msgid "Do you really want to use an empty string as password?"
@@ -177,11 +175,11 @@ msgstr "キー ファイルの選択"
 
 #: DatabaseSettingsWidget#1
 msgid "Database name:"
-msgstr "データベース キー"
+msgstr "データベース の名:"
 
 #: DatabaseSettingsWidget#2
 msgid "Database description:"
-msgstr "データベースのの説明:"
+msgstr "データベースの説明:"
 
 #: DatabaseSettingsWidget#3
 msgid "Transform rounds:"
@@ -189,7 +187,7 @@ msgstr "Transformerings varv:"
 
 #: DatabaseSettingsWidget#4
 msgid "Default username:"
-msgstr "システム既定ユーザー名:"
+msgstr "システムの既定ユーザー名:"
 
 #: DatabaseSettingsWidget#5
 #, fuzzy
@@ -347,7 +345,7 @@ msgstr "これら %1 個のエントリを削除してもよろしいですか?"
 #: DatabaseWidget#10
 msgctxt "DatabaseWidget#10"
 msgid "Current group"
-msgstr "Körrènt grūp"
+msgstr "現在のグループ"
 
 #: EditEntryWidget#1
 msgid "Entry"
@@ -460,7 +458,7 @@ msgstr "保存"
 
 #: EditEntryWidgetAutoType#1
 msgid "Enable Auto-Type for this entry"
-msgstr "Slå på auto-skriv för denna post"
+msgstr "このエントリの自動入力を有効化"
 
 #: EditEntryWidgetAutoType#2
 msgid "Inherit default Auto-Type sequence from the group"
@@ -522,7 +520,7 @@ msgstr "パスワード:"
 
 #: EditEntryWidgetMain#4
 msgid "Repeat:"
-msgstr "Rīpīt:"
+msgstr "再度入力:"
 
 #: EditEntryWidgetMain#5
 msgid "Gen."
@@ -724,9 +722,8 @@ msgid "Unable to open the database."
 msgstr "データベース ファイルを開けませんでした。"
 
 #: KeePass1Reader#1
-#, fuzzy
 msgid "Unable to read keyfile."
-msgstr "キー ファイルを選択してください。"
+msgstr "キー ファイルを作成してください"
 
 #: KeePass1Reader#2
 #, fuzzy
@@ -782,18 +779,16 @@ msgid "Entries"
 msgstr "エントリ"
 
 #: MainWindow#5
-#, fuzzy
 msgid "Copy attribute to clipboard"
-msgstr "クリップボードへユーザー名をコピー"
+msgstr "クリップボードへ属性をコピー"
 
 #: MainWindow#6
 msgid "Groups"
 msgstr "グループ"
 
 #: MainWindow#7
-#, fuzzy
 msgid "Extras"
-msgstr "追加(&X)"
+msgstr "追加"
 
 #: MainWindow#8
 msgid "View"
@@ -986,14 +981,12 @@ msgid "Displays this help."
 msgstr ""
 
 #: QCommandLineParser#3
-#, fuzzy
 msgid "Unknown option '%1'."
-msgstr "不明な暗号化アルゴリズムです。"
+msgstr "不明な オプション '%1'。"
 
 #: QCommandLineParser#4
-#, fuzzy
 msgid "Unknown options: %1."
-msgstr "不明な暗号化アルゴリズムです。"
+msgstr "不明な オプション: '%1'。"
 
 #: QCommandLineParser#5
 msgid "Missing value after '%1'."
@@ -1041,7 +1034,7 @@ msgstr ""
 
 #: QtIOCompressor#3
 msgid "Error opening underlying device: "
-msgstr ""
+msgstr "基本となるデバイスを開くエラー："
 
 #: QtIOCompressor#4
 msgid "Error reading data from underlying device: "
@@ -1070,11 +1063,11 @@ msgstr "大文字と小文字を区別する"
 #: SearchWidget#3
 msgctxt "SearchWidget#3"
 msgid "Current group"
-msgstr ""
+msgstr "現在のグループ"
 
 #: SearchWidget#4
 msgid "Root group"
-msgstr ""
+msgstr "Rootグループ"
 
 #: SettingsWidget#1
 msgid "Application Settings"
@@ -1162,15 +1155,15 @@ msgstr ""
 
 #: WelcomeWidget#1
 msgid "Welcome!"
-msgstr ""
+msgstr "ようこそ！"
 
 #: main#1
 msgid "KeePassX - cross-platform password manager"
-msgstr ""
+msgstr "KeePassX - クロスプラットフォームのパスワードマネージャ"
 
 #: main#2
 msgid "filename of the password database to open (*.kdbx)"
-msgstr ""
+msgstr "パスワードデータベースのファイル名が開くように (*.kdbx)"
 
 #: main#3
 msgid "path to a custom config file"
