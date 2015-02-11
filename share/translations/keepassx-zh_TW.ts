@@ -294,11 +294,11 @@
     </message>
     <message>
         <source>None</source>
-        <translation>简体中文</translation>
+        <translation>傳統中文</translation>
     </message>
     <message>
         <source>Team</source>
-        <translation>团队</translation>
+        <translation>團隊</translation>
     </message>
     <message>
         <source>Various fixes and improvements</source>
@@ -306,7 +306,7 @@
     </message>
     <message>
         <source>Error</source>
-        <translation>发生错误</translation>
+        <translation>發生錯誤</translation>
     </message>
     <message>
         <source>Developer, Project Admin</source>
@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>Developer</source>
-        <translation>开发者</translation>
+        <translation>開發人員</translation>
     </message>
     <message>
         <source>File &apos;%1&apos; could not be found.</source>
