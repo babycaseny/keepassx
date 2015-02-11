@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
+<TS version="2.0" language="zh_TW">
 <context>
     <name>CustomizeDetailViewDialog</name>
     <message>
@@ -105,11 +105,11 @@
     </message>
     <message>
         <source>Url</source>
-        <translation>网址</translation>
+        <translation>網址</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>粗体</translation>
+        <translation>粗體</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -117,15 +117,15 @@
     </message>
     <message>
         <source>Group</source>
-        <translation>组</translation>
+        <translation>群組</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>标题</translation>
+        <translation>標題</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation>创建日期</translation>
+        <translation>建立日期</translation>
     </message>
     <message>
         <source>Last Modification Date</source>
@@ -133,15 +133,15 @@
     </message>
     <message>
         <source>Right-Aligned</source>
-        <translation>右对齐</translation>
+        <translation>靠右</translation>
     </message>
     <message>
         <source>Time till Expiration</source>
-        <translation>到失效期的剩余时间</translation>
+        <translation>到失效期的剩餘時間</translation>
     </message>
     <message>
         <source>Left-Aligned</source>
-        <translation>左对齐</translation>
+        <translation>靠左</translation>
     </message>
     <message>
         <source>Expiration Date</source>
@@ -153,39 +153,39 @@
     </message>
     <message>
         <source>Dialog</source>
-        <translation>对话</translation>
+        <translation>對話</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
+        <translation>斜體</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>字体大小</translation>
+        <translation>字體大小</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>字符颜色</translation>
+        <translation>文字顏色</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>密码</translation>
+        <translation>密碼</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>用户名</translation>
+        <translation>使用者</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>备注</translation>
+        <translation>註解</translation>
     </message>
     <message>
         <source>Justified</source>
-        <translation>左右对齐</translation>
+        <translation>左右靠齊</translation>
     </message>
     <message>
         <source>Last Access Date</source>
-        <translation>上次访问日期</translation>
+        <translation>上次訪問日期</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -193,15 +193,15 @@
     </message>
     <message>
         <source>Underlined</source>
-        <translation>下划线</translation>
+        <translation>底線</translation>
     </message>
     <message>
         <source>Rich Text Editor</source>
-        <translation>文本编辑器</translation>
+        <translation>文本編輯器</translation>
     </message>
     <message>
         <source>Attachment Name</source>
-        <translation>附件名称</translation>
+        <translation>附件名稱</translation>
     </message>
 </context>
 <context>
@@ -212,15 +212,15 @@
     </message>
     <message>
         <source>Icon:</source>
-        <translation>图标:</translation>
+        <translation>圖示：</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation>标题:</translation>
+        <translation>標題：</translation>
     </message>
     <message>
         <source>Group Properties</source>
-        <translation>组属性</translation>
+        <translation>群組屬性</translation>
     </message>
 </context>
 <context>
@@ -231,15 +231,15 @@
     </message>
     <message>
         <source>URL:</source>
-        <translation>网址:</translation>
+        <translation>網址:</translation>
     </message>
     <message>
         <source>Ge&amp;n.</source>
-        <translation>设立(&amp;N)</translation>
+        <translation>產生(&amp;N)</translation>
     </message>
     <message>
         <source>Icon:</source>
-        <translation>图标:</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Never</source>
@@ -251,15 +251,15 @@
     </message>
     <message>
         <source>Group:</source>
-        <translation>组:</translation>
+        <translation>群組</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation>标题:</translation>
+        <translation>標題：</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation>备注:</translation>
+        <translation>註釋：</translation>
     </message>
     <message>
         <source>Edit Entry</source>
