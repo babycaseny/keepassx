@@ -689,7 +689,7 @@ Spara ändringarna?</translation>
     <name>Group</name>
     <message>
         <source>Recycle Bin</source>
-        <translation>Papperskorg</translation>
+        <translation type="unfinished">Rùbbišbin</translation>
     </message>
 </context>
 <context>
@@ -773,7 +773,7 @@ Spara ändringarna?</translation>
     </message>
     <message>
         <source>Extras</source>
-        <translation>Extra</translation>
+        <translation type="unfinished">Ikstras</translation>
     </message>
     <message>
         <source>View</source>
@@ -1002,7 +1002,7 @@ Spara ändringarna?</translation>
     </message>
     <message>
         <source>Partial write. Partition full?</source>
-        <translation>Delvis skrivet. Är partitionen full?</translation>
+        <translation type="unfinished">Delvis wrait. Är partitionen full?</translation>
     </message>
 </context>
 <context>

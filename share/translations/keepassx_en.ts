@@ -433,6 +433,10 @@ Save changes?</source>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EditEntryWidgetAutoType</name>
@@ -1102,10 +1106,6 @@ Save changes?</source>
     </message>
     <message>
         <source>Open previous databases on startup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mark as modified on expanded state changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
