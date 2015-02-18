@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Do you really want to use an empty string as password?</source>
-        <translation>Ayisyur paswörd wa empti?</translation>
+        <translation>Vill du verkligen vill använda en tom sträng som lösenord?</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
@@ -239,8 +239,8 @@
     <message>
         <source>&quot;%1&quot; is in edit mode.
 Close anyway?</source>
-        <translation>&quot;%1&quot; wa in edit-moud.
-Diŋyǐu klos?</translation>
+        <translation>&quot;%1&quot; är i redigerar-läge.
+Stäng ändå?</translation>
     </message>
     <message>
         <source>Save changes?</source>
@@ -249,8 +249,8 @@ Diŋyǐu klos?</translation>
     <message>
         <source>&quot;%1&quot; was modified.
 Save changes?</source>
-        <translation>&quot;%1&quot; wa modifaien.
-Seiv čeinjs?</translation>
+        <translation>&quot;%1&quot; har ändrats.
+Spara ändringarna?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -258,11 +258,11 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>Wraitiŋ deitābeis feilen.</translation>
+        <translation>Kunde inte skriva till databasen.</translation>
     </message>
     <message>
         <source>Save database as</source>
-        <translation>Seiv deitābeis as</translation>
+        <translation>Spara databas som</translation>
     </message>
     <message>
         <source>New database</source>
@@ -372,7 +372,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Unable to open file</source>
-        <translation>Opèn fayl feilen</translation>
+        <translation>Kunde inte öppna filen.</translation>
     </message>
     <message>
         <source>Save attachment</source>
@@ -510,7 +510,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>Ikspair dup</translation>
+        <translation>Går ut</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -518,7 +518,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation>Nouts:</translation>
+        <translation>Anteckningar:</translation>
     </message>
 </context>
 <context>
@@ -689,7 +689,7 @@ Seiv čeinjs?</translation>
     <name>Group</name>
     <message>
         <source>Recycle Bin</source>
-        <translation>Rùbbišbin</translation>
+        <translation type="unfinished">Rùbbišbin</translation>
     </message>
 </context>
 <context>
@@ -742,7 +742,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>Feilen keyvälyu or korrupten deitābeisfayl.</translation>
+        <translation>Feilen keyvälyu or korrupten deitabeisfayl.</translation>
     </message>
 </context>
 <context>
@@ -753,7 +753,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Recent databases</source>
-        <translation>Zuigèn yusing deitābeis</translation>
+        <translation>Senast använda databser</translation>
     </message>
     <message>
         <source>Help</source>
@@ -773,7 +773,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Extras</source>
-        <translation>Ikstras</translation>
+        <translation type="unfinished">Ikstras</translation>
     </message>
     <message>
         <source>View</source>
@@ -837,11 +837,11 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Database settings</source>
-        <translation>Deitābeis setiŋs</translation>
+        <translation>Databasinställningar</translation>
     </message>
     <message>
         <source>Import KeePass 1 database</source>
-        <translation>Import deitābeis in KeePass1 formät</translation>
+        <translation>Importera KeePass1 databas</translation>
     </message>
     <message>
         <source>Clone entry</source>
@@ -881,7 +881,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Lock databases</source>
-        <translation>Lokk deitābeises</translation>
+        <translation>Lås databaser</translation>
     </message>
     <message>
         <source>Title</source>
@@ -893,7 +893,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Nouts</translation>
+        <translation>Anteckningar</translation>
     </message>
     <message>
         <source>Show toolbar</source>
@@ -994,15 +994,15 @@ Seiv čeinjs?</translation>
     <name>QSaveFile</name>
     <message>
         <source>Existing file %1 is not writable</source>
-        <translation>Iksistiŋ fayl %1 wa not dū wraitàbol</translation>
+        <translation>Den existerande filen %1 är inte skrivbar</translation>
     </message>
     <message>
         <source>Writing canceled by application</source>
-        <translation>Wrait känsolen bai applaikeiçion</translation>
+        <translation>Skrivning avbruten av applikation</translation>
     </message>
     <message>
         <source>Partial write. Partition full?</source>
-        <translation>Bufùn wraiten.  Parteiçion fillen?</translation>
+        <translation type="unfinished">Delvis wrait. Är partitionen full?</translation>
     </message>
 </context>
 <context>
