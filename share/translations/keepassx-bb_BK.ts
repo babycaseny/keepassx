@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en_HK">
+<TS version="2.0" language="bb">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -19,7 +18,7 @@
         <translation>Òto-Taip - KeePassX</translation>
     </message>
     <message>
-        <source>Couldn&apos;t find an entry that matches the window title.</source>
+        <source>Couldn't find an entry that matches the window title.</source>
         <translation>Kunde inte hitta en post som matchar fönstertiteln.</translation>
     </message>
 </context>
@@ -139,7 +138,7 @@
         <translation>Kunde inte öppna databas.</translation>
     </message>
     <message>
-        <source>Can&apos;t open key file</source>
+        <source>Can't open key file</source>
         <translation>Kyivälyu fayl opèn feilen</translation>
     </message>
     <message>
@@ -148,11 +147,11 @@
     </message>
     <message>
         <source>Key files</source>
-        <translation>Kyivälyu fayls</translation>
+        <translation>Kyivälyufayls</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>Välj nyckel-fil</translation>
+        <translation>Silekt kyivälyufayl</translation>
     </message>
 </context>
 <context>
@@ -237,9 +236,9 @@
         <translation>Klos?</translation>
     </message>
     <message>
-        <source>&quot;%1&quot; is in edit mode.
+        <source>"%1" is in edit mode.
 Close anyway?</source>
-        <translation>&quot;%1&quot; wa in edit-moud.
+        <translation>"%1" wa in edit-moud.
 Diŋyǐu klos?</translation>
     </message>
     <message>
@@ -247,9 +246,9 @@ Diŋyǐu klos?</translation>
         <translation>Spara ändringar?</translation>
     </message>
     <message>
-        <source>&quot;%1&quot; was modified.
+        <source>"%1" was modified.
 Save changes?</source>
-        <translation>&quot;%1&quot; wa modifaien.
+        <translation>"%1" wa modifaien.
 Seiv čeinjs?</translation>
     </message>
     <message>
@@ -284,8 +283,8 @@ Seiv čeinjs?</translation>
         <translation>Dilit entri?</translation>
     </message>
     <message>
-        <source>Do you really want to delete the entry &quot;%1&quot; for good?</source>
-        <translation>Vill du verkligen ta bort &quot;%1&quot; för gott?</translation>
+        <source>Do you really want to delete the entry "%1" for good?</source>
+        <translation>Vill du verkligen ta bort "%1" för gott?</translation>
     </message>
     <message>
         <source>Delete entries?</source>
@@ -308,8 +307,8 @@ Seiv čeinjs?</translation>
         <translation>Dilit grūp?</translation>
     </message>
     <message>
-        <source>Do you really want to delete the group &quot;%1&quot; for good?</source>
-        <translation>Vill du verkligen ta bort gruppen &quot;%1&quot; för gott?</translation>
+        <source>Do you really want to delete the group "%1" for good?</source>
+        <translation>Vill du verkligen ta bort gruppen "%1" för gott?</translation>
     </message>
     <message>
         <source>Current group</source>
@@ -610,11 +609,11 @@ Seiv čeinjs?</translation>
         <translation>Silekt Imeij</translation>
     </message>
     <message>
-        <source>Can&apos;t delete icon!</source>
+        <source>Can't delete icon!</source>
         <translation>Aikon dilit feilen!</translation>
     </message>
     <message numerus="yes">
-        <source>Can&apos;t delete icon. Still used by %n item(s).</source>
+        <source>Can't delete icon. Still used by %n item(s).</source>
         <translation>
             <numerusform>Aikon dilit feilen. Still in yus bai %n-gè aitèm.</numerusform>
             <numerusform>Aikon dilit feilen. Still in yus bai %n-gè aitèms.</numerusform>
@@ -958,20 +957,20 @@ Seiv čeinjs?</translation>
         <translation>Displei nigè help.</translation>
     </message>
     <message>
-        <source>Unknown option &apos;%1&apos;.</source>
-        <translation>Okänt alternativ: &apos;%1&apos;</translation>
+        <source>Unknown option '%1'.</source>
+        <translation>Okänt alternativ: '%1'</translation>
     </message>
     <message>
         <source>Unknown options: %1.</source>
-        <translation>Okända alternativ: &apos;%1&apos;</translation>
+        <translation>Okända alternativ: '%1'</translation>
     </message>
     <message>
-        <source>Missing value after &apos;%1&apos;.</source>
-        <translation>Saknar värde efter &apos;%1&apos;</translation>
+        <source>Missing value after '%1'.</source>
+        <translation>Saknar värde efter '%1'</translation>
     </message>
     <message>
-        <source>Unexpected value after &apos;%1&apos;.</source>
-        <translation>Oväntat värde efter &apos;%1&apos;</translation>
+        <source>Unexpected value after '%1'.</source>
+        <translation>Oväntat värde efter '%1'</translation>
     </message>
     <message>
         <source>[options]</source>
