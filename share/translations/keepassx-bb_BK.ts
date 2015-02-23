@@ -1,5 +1,5 @@
 <!DOCTYPE TS>
-<TS version="2.0" language="bb">
+<TS version="2.0" language="bb_BK">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -115,7 +115,7 @@
     <name>DatabaseOpenWidget</name>
     <message>
         <source>Enter master key</source>
-        <translation>Enter mastèr kyivälyu</translation>
+        <translation>Input mastèr kyivälyu</translation>
     </message>
     <message>
         <source>Key File:</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Kunde inte öppna databas.</translation>
+        <translation>Deitābeis opèn feilen.</translation>
     </message>
     <message>
         <source>Can't open key file</source>
@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Transform rounds:</source>
-        <translation>Transformerings varv:</translation>
+        <translation>Transform raunds:</translation>
     </message>
     <message>
         <source>Default username:</source>
@@ -243,7 +243,7 @@ Diŋyǐu klos?</translation>
     </message>
     <message>
         <source>Save changes?</source>
-        <translation>Spara ändringar?</translation>
+        <translation>Seiv čeinjs?</translation>
     </message>
     <message>
         <source>"%1" was modified.
