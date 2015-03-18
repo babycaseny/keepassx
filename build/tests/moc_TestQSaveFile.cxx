@@ -1,0 +1,104 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'TestQSaveFile.h'
+**
+** Created by: The Qt Meta Object Compiler version 63 (Qt 4.8.6)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "../../tests/TestQSaveFile.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'TestQSaveFile.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.6. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_TestQSaveFile[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       0,    0, // classinfo
+       5,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       0,       // signalCount
+
+ // slots: signature, parameters, type, tag, flags
+      14,   35,   35,   35, 0x08,
+      36,   35,   35,   35, 0x08,
+      48,   35,   35,   35, 0x08,
+      82,   35,   35,   35, 0x08,
+     111,   35,   35,   35, 0x08,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_TestQSaveFile[] = {
+    "TestQSaveFile\0transactionalWrite()\0\0"
+    "autoFlush()\0transactionalWriteNoPermissions()\0"
+    "transactionalWriteCanceled()\0"
+    "transactionalWriteErrorRenaming()\0"
+};
+
+void TestQSaveFile::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        TestQSaveFile *_t = static_cast<TestQSaveFile *>(_o);
+        switch (_id) {
+        case 0: _t->transactionalWrite(); break;
+        case 1: _t->autoFlush(); break;
+        case 2: _t->transactionalWriteNoPermissions(); break;
+        case 3: _t->transactionalWriteCanceled(); break;
+        case 4: _t->transactionalWriteErrorRenaming(); break;
+        default: ;
+        }
+    }
+    Q_UNUSED(_a);
+}
+
+const QMetaObjectExtraData TestQSaveFile::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject TestQSaveFile::staticMetaObject = {
+    { &QObject::staticMetaObject, qt_meta_stringdata_TestQSaveFile,
+      qt_meta_data_TestQSaveFile, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &TestQSaveFile::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *TestQSaveFile::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *TestQSaveFile::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_TestQSaveFile))
+        return static_cast<void*>(const_cast< TestQSaveFile*>(this));
+    return QObject::qt_metacast(_clname);
+}
+
+int TestQSaveFile::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QObject::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 5)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 5;
+    }
+    return _id;
+}
+QT_END_MOC_NAMESPACE
