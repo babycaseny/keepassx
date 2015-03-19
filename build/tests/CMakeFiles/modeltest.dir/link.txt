@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar cq libmodeltest.a  CMakeFiles/modeltest.dir/modeltest.cpp.o CMakeFiles/modeltest.dir/moc_modeltest.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmodeltest.a

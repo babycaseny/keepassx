@@ -1,0 +1,35 @@
+[  3%] Built target translations
+[ 76%] Built target keepassx_core
+[ 76%] Built target KeePassX
+[ 77%] Built target testautotype
+[ 78%] Built target keepassx-autotype-test
+[ 78%] Built target kdbx-extract
+[ 79%] Built target modeltest
+[ 80%] Built target testcryptohash
+[ 81%] Built target testdeletedobjects
+[ 82%] Built target testentry
+[ 83%] Built target testentrymodel
+[ 84%] Built target testentrysearcher
+[ 85%] Built target testexporter
+[ 86%] Built target testgroup
+[ 87%] Built target testgroupmodel
+[ 88%] Built target testhashedblockstream
+[ 89%] Built target testkeepass1reader
+[ 90%] Built target testkeepass2randomstream
+[ 91%] Built target testkeepass2reader
+[ 92%] Built target testkeepass2writer
+[ 93%] Built target testkeepass2xmlreader
+[ 94%] Built target testkeys
+[ 95%] Built target testmodified
+[ 96%] Built target testqcommandlineparser
+[ 97%] Built target testqsavefile
+[ 98%] Built target testrandom
+[ 99%] Built target testsymmetriccipher
+[100%] Built target testwildcardmatcher
+Run CPack packaging tool...
+CPack: Create package using DragNDrop
+CPack: Install projects
+CPack: - Run preinstall target for: KeePassX
+CPack: - Install project: KeePassX
+CPack: Create package
+CPack: - package: /Users/nma/Source/keepassx/build/KeePassX-1.9.85.dmg generated.
