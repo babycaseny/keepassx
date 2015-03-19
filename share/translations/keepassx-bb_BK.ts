@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="bb_BK">
 <context>
@@ -182,26 +183,26 @@
     </message>
     <message>
         <source>Benchmark</source>
-        <translation>Benchmark</translation>
+        <translation>Benčmark</translation>
     </message>
     <message>
         <source>Max. history items:</source>
-        <translation>Maxantal historik poster:</translation>
+        <translation>Zuidai històrik aitèms:</translation>
     </message>
     <message>
         <source>Max. history size:</source>
-        <translation>Maximal historik storlek:</translation>
+        <translation>Zuidai històrik saiz:</translation>
     </message>
 </context>
 <context>
     <name>DatabaseTabWidget</name>
     <message>
         <source>Root</source>
-        <translation>Root</translation>
+        <translation>Rūt</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>KeePass 2 Databas</translation>
+        <translation>KeePass 2 formät deitābeis</translation>
     </message>
     <message>
         <source>All files</source>
@@ -213,11 +214,11 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>Varning</translation>
+        <translation>Wōrniŋ</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation>Filen kunde inte hittas!</translation>
+        <translation>Fayl-wa not fainden!</translation>
     </message>
     <message>
         <source>Open KeePass 1 database</source>
@@ -248,7 +249,7 @@ Diŋyǐu klos?</translation>
     <message>
         <source>"%1" was modified.
 Save changes?</source>
-        <translation>"%1" wa modifaien.
+        <translation>&lquot;%1&rquot; wa modifaien.
 Seiv čeinjs?</translation>
     </message>
     <message>
