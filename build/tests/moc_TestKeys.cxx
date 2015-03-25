@@ -30,19 +30,19 @@ static const uint qt_meta_data_TestKeys[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-       9,   24,   24,   24, 0x08,
-      25,   24,   24,   24, 0x08,
-      41,   24,   24,   24, 0x08,
-      55,   24,   24,   24, 0x08,
-      74,   24,   24,   24, 0x08,
-      94,   24,   24,   24, 0x08,
-     113,   24,   24,   24, 0x08,
+      10,    9,    9,    9, 0x08,
+      25,    9,    9,    9, 0x08,
+      41,    9,    9,    9, 0x08,
+      55,    9,    9,    9, 0x08,
+      74,    9,    9,    9, 0x08,
+      94,    9,    9,    9, 0x08,
+     113,    9,    9,    9, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestKeys[] = {
-    "TestKeys\0initTestCase()\0\0testComposite()\0"
+    "TestKeys\0\0initTestCase()\0testComposite()\0"
     "testFileKey()\0testFileKey_data()\0"
     "testCreateFileKey()\0testFileKeyError()\0"
     "benchmarkTransformKey()\0"

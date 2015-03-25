@@ -30,13 +30,13 @@ static const uint qt_meta_data_DragTabBar[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      11,   27,   27,   27, 0x08,
+      12,   11,   11,   11, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_DragTabBar[] = {
-    "DragTabBar\0dragSwitchTab()\0\0"
+    "DragTabBar\0\0dragSwitchTab()\0"
 };
 
 void DragTabBar::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

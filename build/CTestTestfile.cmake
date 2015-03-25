@@ -1,10 +1,10 @@
 # CMake generated Testfile for 
-# Source directory: /Users/nma/Source/keepassx
-# Build directory: /Users/nma/Source/keepassx/build
+# Source directory: /home/tom/Desktop/Development/keepassx
+# Build directory: /home/tom/Desktop/Development/keepassx/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
-subdirs(src)
-subdirs(share)
-subdirs(utils)
-subdirs(tests)
+SUBDIRS(src)
+SUBDIRS(share)
+SUBDIRS(utils)
+SUBDIRS(tests)

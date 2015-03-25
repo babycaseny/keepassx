@@ -30,20 +30,20 @@ static const uint qt_meta_data_AutoTypeAssociationsModel[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      26,   49,   51,   51, 0x0a,
-      52,   49,   51,   51, 0x0a,
-      79,   51,   51,   51, 0x0a,
-      96,   49,   51,   51, 0x0a,
-     126,   51,   51,   51, 0x0a,
-     146,   51,   51,   51, 0x0a,
-     161,   51,   51,   51, 0x0a,
+      29,   27,   26,   26, 0x0a,
+      52,   27,   26,   26, 0x0a,
+      79,   26,   26,   26, 0x0a,
+      96,   27,   26,   26, 0x0a,
+     126,   26,   26,   26, 0x0a,
+     146,   26,   26,   26, 0x0a,
+     161,   26,   26,   26, 0x0a,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_AutoTypeAssociationsModel[] = {
-    "AutoTypeAssociationsModel\0"
-    "associationChange(int)\0i\0\0"
+    "AutoTypeAssociationsModel\0\0i\0"
+    "associationChange(int)\0"
     "associationAboutToAdd(int)\0associationAdd()\0"
     "associationAboutToRemove(int)\0"
     "associationRemove()\0aboutToReset()\0"

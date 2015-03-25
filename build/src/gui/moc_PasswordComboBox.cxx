@@ -30,14 +30,13 @@ static const uint qt_meta_data_PasswordComboBox[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      17,   31,   36,   36, 0x0a,
+      23,   18,   17,   17, 0x0a,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_PasswordComboBox[] = {
-    "PasswordComboBox\0setEcho(bool)\0echo\0"
-    "\0"
+    "PasswordComboBox\0\0echo\0setEcho(bool)\0"
 };
 
 void PasswordComboBox::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

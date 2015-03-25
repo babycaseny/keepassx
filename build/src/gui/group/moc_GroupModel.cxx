@@ -30,24 +30,24 @@ static const uint qt_meta_data_GroupModel[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      11,   36,   42,   42, 0x08,
-      43,   36,   42,   42, 0x08,
-      70,   42,   42,   42, 0x08,
-      85,  113,   42,   42, 0x08,
-     125,   42,   42,   42, 0x08,
-     138,  174,   42,   42, 0x08,
-     192,   42,   42,   42, 0x08,
+      18,   12,   11,   11, 0x08,
+      43,   12,   11,   11, 0x08,
+      70,   11,   11,   11, 0x08,
+      97,   85,   11,   11, 0x08,
+     125,   11,   11,   11, 0x08,
+     156,  138,   11,   11, 0x08,
+     192,   11,   11,   11, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_GroupModel[] = {
-    "GroupModel\0groupDataChanged(Group*)\0"
-    "group\0\0groupAboutToRemove(Group*)\0"
-    "groupRemoved()\0groupAboutToAdd(Group*,int)\0"
-    "group,index\0groupAdded()\0"
+    "GroupModel\0\0group\0groupDataChanged(Group*)\0"
+    "groupAboutToRemove(Group*)\0groupRemoved()\0"
+    "group,index\0groupAboutToAdd(Group*,int)\0"
+    "groupAdded()\0group,toGroup,pos\0"
     "groupAboutToMove(Group*,Group*,int)\0"
-    "group,toGroup,pos\0groupMoved()\0"
+    "groupMoved()\0"
 };
 
 void GroupModel::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

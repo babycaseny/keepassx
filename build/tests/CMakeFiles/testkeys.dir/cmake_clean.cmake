@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "moc_TestKeys.cxx"
   "CMakeFiles/testkeys.dir/TestKeys.cpp.o"
   "CMakeFiles/testkeys.dir/moc_TestKeys.cxx.o"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/testkeys.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/testkeys.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

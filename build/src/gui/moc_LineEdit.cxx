@@ -30,14 +30,13 @@ static const uint qt_meta_data_LineEdit[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-       9,   36,   41,   41, 0x08,
+      15,   10,    9,    9, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_LineEdit[] = {
-    "LineEdit\0updateCloseButton(QString)\0"
-    "text\0\0"
+    "LineEdit\0\0text\0updateCloseButton(QString)\0"
 };
 
 void LineEdit::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

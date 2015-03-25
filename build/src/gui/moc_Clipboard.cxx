@@ -30,14 +30,14 @@ static const uint qt_meta_data_Clipboard[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      10,   27,   27,   27, 0x08,
-      28,   27,   27,   27, 0x08,
+      11,   10,   10,   10, 0x08,
+      28,   10,   10,   10, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_Clipboard[] = {
-    "Clipboard\0clearClipboard()\0\0cleanup()\0"
+    "Clipboard\0\0clearClipboard()\0cleanup()\0"
 };
 
 void Clipboard::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

@@ -30,17 +30,17 @@ static const uint qt_meta_data_TestModified[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      13,   28,   28,   28, 0x08,
-      29,   28,   28,   28, 0x08,
-      43,   28,   28,   28, 0x08,
-      59,   28,   28,   28, 0x08,
-      75,   28,   28,   28, 0x08,
+      14,   13,   13,   13, 0x08,
+      29,   13,   13,   13, 0x08,
+      43,   13,   13,   13, 0x08,
+      59,   13,   13,   13, 0x08,
+      75,   13,   13,   13, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestModified[] = {
-    "TestModified\0initTestCase()\0\0testSignals()\0"
+    "TestModified\0\0initTestCase()\0testSignals()\0"
     "testGroupSets()\0testEntrySets()\0"
     "testHistoryItem()\0"
 };

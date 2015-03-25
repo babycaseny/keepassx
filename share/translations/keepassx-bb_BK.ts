@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.0" language="bb_BK">
 <context>
@@ -249,7 +249,7 @@ Diŋyǐu klos?</translation>
     <message>
         <source>"%1" was modified.
 Save changes?</source>
-        <translation>&lquot;%1&rquot; wa modifaien.
+        <translation>"%1" wa modifaien.
 Seiv čeinjs?</translation>
     </message>
     <message>
@@ -285,7 +285,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Do you really want to delete the entry "%1" for good?</source>
-        <translation>Vill du verkligen ta bort "%1" för gott?</translation>
+        <translation>Ayisyur tu dilit "%1" nigè entri?</translation>
     </message>
     <message>
         <source>Delete entries?</source>
@@ -293,15 +293,15 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Do you really want to delete %1 entries for good?</source>
-        <translation>Vill du verkligen ta bort %1 poser för gott?</translation>
+        <translation>Ayisyur tu dilit "%1" niza entris?</translation>
     </message>
     <message>
         <source>Move entries to recycle bin?</source>
-        <translation>Lägg poster i papperskorgen?</translation>
+        <translation>Bluŋ niza entris?</translation>
     </message>
     <message>
         <source>Do you really want to move %n entry(s) to the recycle bin?</source>
-        <translation>Ayisyur tu mūv %n-gè entri tu rùbblišbin?</translation>
+        <translation>Ayisyur tu bluŋ ni-%n-gè entri?</translation>
     </message>
     <message>
         <source>Delete group?</source>
@@ -309,7 +309,7 @@ Seiv čeinjs?</translation>
     </message>
     <message>
         <source>Do you really want to delete the group "%1" for good?</source>
-        <translation>Vill du verkligen ta bort gruppen "%1" för gott?</translation>
+        <translation>Ayisyur tu dilit "%1" nigè grūp?</translation>
     </message>
     <message>
         <source>Current group</source>

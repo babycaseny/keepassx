@@ -30,17 +30,17 @@ static const uint qt_meta_data_TestEntrySearcher[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      18,   33,   33,   33, 0x08,
-      34,   33,   33,   33, 0x08,
-      52,   33,   33,   33, 0x08,
-      83,   33,   33,   33, 0x08,
-      96,   33,   33,   33, 0x08,
+      19,   18,   18,   18, 0x08,
+      34,   18,   18,   18, 0x08,
+      52,   18,   18,   18, 0x08,
+      83,   18,   18,   18, 0x08,
+      96,   18,   18,   18, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestEntrySearcher[] = {
-    "TestEntrySearcher\0initTestCase()\0\0"
+    "TestEntrySearcher\0\0initTestCase()\0"
     "cleanupTestCase()\0testAndConcatenationInSearch()\0"
     "testSearch()\0testAllAttributesAreSearched()\0"
 };

@@ -30,22 +30,22 @@ static const uint qt_meta_data_TestAutoType[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      13,   28,   28,   28, 0x08,
-      29,   28,   28,   28, 0x08,
-      36,   28,   28,   28, 0x08,
-      46,   28,   28,   28, 0x08,
-      61,   28,   28,   28, 0x08,
-      91,   28,   28,   28, 0x08,
-     118,   28,   28,   28, 0x08,
-     150,   28,   28,   28, 0x08,
-     183,   28,   28,   28, 0x08,
-     214,   28,   28,   28, 0x08,
+      14,   13,   13,   13, 0x08,
+      29,   13,   13,   13, 0x08,
+      36,   13,   13,   13, 0x08,
+      46,   13,   13,   13, 0x08,
+      61,   13,   13,   13, 0x08,
+      91,   13,   13,   13, 0x08,
+     118,   13,   13,   13, 0x08,
+     150,   13,   13,   13, 0x08,
+     183,   13,   13,   13, 0x08,
+     214,   13,   13,   13, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestAutoType[] = {
-    "TestAutoType\0initTestCase()\0\0init()\0"
+    "TestAutoType\0\0initTestCase()\0init()\0"
     "cleanup()\0testInternal()\0"
     "testAutoTypeWithoutSequence()\0"
     "testAutoTypeWithSequence()\0"

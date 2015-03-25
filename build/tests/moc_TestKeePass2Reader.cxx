@@ -30,19 +30,19 @@ static const uint qt_meta_data_TestKeePass2Reader[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      19,   34,   34,   34, 0x08,
-      35,   34,   34,   34, 0x08,
-      50,   34,   34,   34, 0x08,
-      67,   34,   34,   34, 0x08,
-      90,   34,   34,   34, 0x08,
-     113,   34,   34,   34, 0x08,
-     129,   34,   34,   34, 0x08,
+      20,   19,   19,   19, 0x08,
+      35,   19,   19,   19, 0x08,
+      50,   19,   19,   19, 0x08,
+      67,   19,   19,   19, 0x08,
+      90,   19,   19,   19, 0x08,
+     113,   19,   19,   19, 0x08,
+     129,   19,   19,   19, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestKeePass2Reader[] = {
-    "TestKeePass2Reader\0initTestCase()\0\0"
+    "TestKeePass2Reader\0\0initTestCase()\0"
     "testNonAscii()\0testCompressed()\0"
     "testProtectedStrings()\0testBrokenHeaderHash()\0"
     "testFormat200()\0testFormat300()\0"

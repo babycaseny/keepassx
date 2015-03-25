@@ -30,21 +30,21 @@ static const uint qt_meta_data_TestEntryModel[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      15,   30,   30,   30, 0x08,
-      31,   30,   30,   30, 0x08,
-      38,   30,   30,   30, 0x08,
-      61,   30,   30,   30, 0x08,
-      83,   30,   30,   30, 0x08,
-     106,   30,   30,   30, 0x08,
-     128,   30,   30,   30, 0x08,
-     160,   30,   30,   30, 0x08,
-     177,   30,   30,   30, 0x08,
+      16,   15,   15,   15, 0x08,
+      31,   15,   15,   15, 0x08,
+      38,   15,   15,   15, 0x08,
+      61,   15,   15,   15, 0x08,
+      83,   15,   15,   15, 0x08,
+     106,   15,   15,   15, 0x08,
+     128,   15,   15,   15, 0x08,
+     160,   15,   15,   15, 0x08,
+     177,   15,   15,   15, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestEntryModel[] = {
-    "TestEntryModel\0initTestCase()\0\0test()\0"
+    "TestEntryModel\0\0initTestCase()\0test()\0"
     "testAttachmentsModel()\0testAttributesModel()\0"
     "testDefaultIconModel()\0testCustomIconModel()\0"
     "testAutoTypeAssociationsModel()\0"

@@ -1,17 +1,18 @@
 # The set of languages for which implicit dependencies are needed:
-set(CMAKE_DEPENDS_LANGUAGES
+SET(CMAKE_DEPENDS_LANGUAGES
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/nma/Source/keepassx/src/autotype/test/AutoTypeTest.cpp" "/Users/nma/Source/keepassx/build/src/autotype/test/CMakeFiles/keepassx-autotype-test.dir/AutoTypeTest.cpp.o"
-  "/Users/nma/Source/keepassx/build/src/autotype/test/moc_AutoTypeTest.cxx" "/Users/nma/Source/keepassx/build/src/autotype/test/CMakeFiles/keepassx-autotype-test.dir/moc_AutoTypeTest.cxx.o"
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/tom/Desktop/Development/keepassx/src/autotype/test/AutoTypeTest.cpp" "/home/tom/Desktop/Development/keepassx/build/src/autotype/test/CMakeFiles/keepassx-autotype-test.dir/AutoTypeTest.cpp.o"
+  "/home/tom/Desktop/Development/keepassx/build/src/autotype/test/moc_AutoTypeTest.cxx" "/home/tom/Desktop/Development/keepassx/build/src/autotype/test/CMakeFiles/keepassx-autotype-test.dir/moc_AutoTypeTest.cxx.o"
   )
-set(CMAKE_CXX_COMPILER_ID "Clang")
+SET(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
-set(CMAKE_TARGET_DEFINITIONS
+SET(CMAKE_TARGET_DEFINITIONS
   "QT_CORE_LIB"
+  "QT_DBUS_LIB"
   "QT_GUI_LIB"
   "QT_NO_CAST_TO_ASCII"
   "QT_NO_DEBUG"
@@ -23,21 +24,19 @@ set(CMAKE_TARGET_DEFINITIONS
   )
 
 # Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/nma/Source/keepassx/build/tests/CMakeFiles/testautotype.dir/DependInfo.cmake"
+SET(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/usr/local/Cellar/qt/4.8.6/include"
-  "/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework"
-  "/usr/local/Cellar/qt/4.8.6/include/QtGui"
-  "/usr/local/Cellar/qt/4.8.6/include/QtTest"
-  "/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers"
-  "/usr/local/include"
+SET(CMAKE_C_TARGET_INCLUDE_PATH
+  "/usr/include/qt4"
+  "/usr/include/qt4/QtGui"
+  "/usr/include/qt4/QtTest"
+  "/usr/include/qt4/QtDBus"
+  "/usr/include/qt4/QtCore"
   "../src"
   "src"
   )
-set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
-set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
-set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

@@ -30,50 +30,51 @@ static const uint qt_meta_data_MainWindow[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      11,   49,   69,   69, 0x0a,
-      70,  100,   69,   69, 0x2a,
-     112,  134,   69,   69, 0x2a,
-     143,  184,   69,   69, 0x08,
-     189,   69,   69,   69, 0x28,
-     210,   69,   69,   69, 0x08,
-     230,   69,   69,   69, 0x08,
-     248,   69,   69,   69, 0x08,
-     268,   69,   69,   69, 0x08,
-     287,  311,   69,   69, 0x08,
-     320,  349,   69,   69, 0x08,
-     356,   69,   69,   69, 0x08,
-     377,   69,   69,   69, 0x08,
-     403,   69,   69,   69, 0x08,
-     430,  459,   69,   69, 0x08,
-     469,  459,   69,   69, 0x08,
-     498,  521,   69,   69, 0x08,
-     527,  558,   69,   69, 0x08,
-     567,   69,   69,   69, 0x08,
-     590,  643,   69,   69, 0x08,
-     650,   69,   69,   69, 0x08,
+      32,   12,   11,   11, 0x0a,
+      82,   70,   11,   11, 0x2a,
+     121,  112,   11,   11, 0x2a,
+     148,  143,   11,   11, 0x08,
+     189,   11,   11,   11, 0x28,
+     210,   11,   11,   11, 0x08,
+     230,   11,   11,   11, 0x08,
+     248,   11,   11,   11, 0x08,
+     268,   11,   11,   11, 0x08,
+     296,  287,   11,   11, 0x08,
+     327,  320,   11,   11, 0x08,
+     356,   11,   11,   11, 0x08,
+     377,   11,   11,   11, 0x08,
+     403,   11,   11,   11, 0x08,
+     440,  430,   11,   11, 0x08,
+     469,  430,   11,   11, 0x08,
+     504,  498,   11,   11, 0x08,
+     536,  527,   11,   11, 0x08,
+     567,   11,   11,   11, 0x08,
+     597,  590,   11,   11, 0x08,
+     650,   11,   11,   11, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_MainWindow[] = {
-    "MainWindow\0openDatabase(QString,QString,QString)\0"
-    "fileName,pw,keyFile\0\0openDatabase(QString,QString)\0"
-    "fileName,pw\0openDatabase(QString)\0"
-    "fileName\0setMenuActionState(DatabaseWidget::Mode)\0"
-    "mode\0setMenuActionState()\0updateWindowTitle()\0"
+    "MainWindow\0\0fileName,pw,keyFile\0"
+    "openDatabase(QString,QString,QString)\0"
+    "fileName,pw\0openDatabase(QString,QString)\0"
+    "fileName\0openDatabase(QString)\0mode\0"
+    "setMenuActionState(DatabaseWidget::Mode)\0"
+    "setMenuActionState()\0updateWindowTitle()\0"
     "showAboutDialog()\0switchToDatabases()\0"
-    "switchToSettings()\0databaseTabChanged(int)\0"
-    "tabIndex\0openRecentDatabase(QAction*)\0"
-    "action\0clearLastDatabases()\0"
-    "updateLastDatabasesMenu()\0"
-    "updateCopyAttributesMenu()\0"
-    "showEntryContextMenu(QPoint)\0globalPos\0"
-    "showGroupContextMenu(QPoint)\0"
-    "saveToolbarState(bool)\0value\0"
-    "rememberOpenDatabases(QString)\0filePath\0"
-    "applySettingsChanges()\0"
+    "switchToSettings()\0tabIndex\0"
+    "databaseTabChanged(int)\0action\0"
+    "openRecentDatabase(QAction*)\0"
+    "clearLastDatabases()\0updateLastDatabasesMenu()\0"
+    "updateCopyAttributesMenu()\0globalPos\0"
+    "showEntryContextMenu(QPoint)\0"
+    "showGroupContextMenu(QPoint)\0value\0"
+    "saveToolbarState(bool)\0filePath\0"
+    "rememberOpenDatabases(QString)\0"
+    "applySettingsChanges()\0reason\0"
     "trayIconTriggered(QSystemTrayIcon::ActivationReason)\0"
-    "reason\0toggleWindow()\0"
+    "toggleWindow()\0"
 };
 
 void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

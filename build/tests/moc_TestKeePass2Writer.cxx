@@ -30,18 +30,18 @@ static const uint qt_meta_data_TestKeePass2Writer[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      19,   34,   34,   34, 0x08,
-      35,   34,   34,   34, 0x08,
-      47,   34,   34,   34, 0x08,
-      73,   34,   34,   34, 0x08,
-      91,   34,   34,   34, 0x08,
-     115,   34,   34,   34, 0x08,
+      20,   19,   19,   19, 0x08,
+      35,   19,   19,   19, 0x08,
+      47,   19,   19,   19, 0x08,
+      73,   19,   19,   19, 0x08,
+      91,   19,   19,   19, 0x08,
+     115,   19,   19,   19, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestKeePass2Writer[] = {
-    "TestKeePass2Writer\0initTestCase()\0\0"
+    "TestKeePass2Writer\0\0initTestCase()\0"
     "testBasic()\0testProtectedAttributes()\0"
     "testAttachments()\0testNonAsciiPasswords()\0"
     "cleanupTestCase()\0"

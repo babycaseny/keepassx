@@ -30,15 +30,15 @@ static const uint qt_meta_data_TestRandom[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      11,   26,   26,   26, 0x08,
-      27,   26,   26,   26, 0x08,
-      38,   26,   26,   26, 0x08,
+      12,   11,   11,   11, 0x08,
+      27,   11,   11,   11, 0x08,
+      38,   11,   11,   11, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestRandom[] = {
-    "TestRandom\0initTestCase()\0\0testUInt()\0"
+    "TestRandom\0\0initTestCase()\0testUInt()\0"
     "testUIntRange()\0"
 };
 

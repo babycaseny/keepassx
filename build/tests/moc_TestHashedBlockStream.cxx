@@ -30,15 +30,15 @@ static const uint qt_meta_data_TestHashedBlockStream[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      22,   37,   37,   37, 0x08,
-      38,   37,   37,   37, 0x08,
+      23,   22,   22,   22, 0x08,
+      38,   22,   22,   22, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestHashedBlockStream[] = {
-    "TestHashedBlockStream\0initTestCase()\0"
-    "\0testWriteRead()\0"
+    "TestHashedBlockStream\0\0initTestCase()\0"
+    "testWriteRead()\0"
 };
 
 void TestHashedBlockStream::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

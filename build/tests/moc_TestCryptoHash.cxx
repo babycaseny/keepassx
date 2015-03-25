@@ -30,14 +30,14 @@ static const uint qt_meta_data_TestCryptoHash[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      15,   30,   30,   30, 0x08,
-      31,   30,   30,   30, 0x08,
+      16,   15,   15,   15, 0x08,
+      31,   15,   15,   15, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestCryptoHash[] = {
-    "TestCryptoHash\0initTestCase()\0\0test()\0"
+    "TestCryptoHash\0\0initTestCase()\0test()\0"
 };
 
 void TestCryptoHash::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

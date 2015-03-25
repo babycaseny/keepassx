@@ -30,23 +30,24 @@ static const uint qt_meta_data_EntryView[] = {
        2,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      10,   57,   70,   70, 0x05,
-      71,   70,   70,   70, 0x05,
+      24,   11,   10,   10, 0x05,
+      71,   10,   10,   10, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      95,  112,   70,   70, 0x0a,
-     118,  150,   70,   70, 0x08,
-     156,   70,   70,   70, 0x08,
-     180,   70,   70,   70, 0x08,
+     101,   95,   10,   10, 0x0a,
+     124,  118,   10,   10, 0x08,
+     156,   10,   10,   10, 0x08,
+     180,   10,   10,   10, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EntryView[] = {
-    "EntryView\0entryActivated(Entry*,EntryModel::ModelColumn)\0"
-    "entry,column\0\0entrySelectionChanged()\0"
-    "setGroup(Group*)\0group\0"
-    "emitEntryActivated(QModelIndex)\0index\0"
+    "EntryView\0\0entry,column\0"
+    "entryActivated(Entry*,EntryModel::ModelColumn)\0"
+    "entrySelectionChanged()\0group\0"
+    "setGroup(Group*)\0index\0"
+    "emitEntryActivated(QModelIndex)\0"
     "switchToEntryListMode()\0switchToGroupMode()\0"
 };
 

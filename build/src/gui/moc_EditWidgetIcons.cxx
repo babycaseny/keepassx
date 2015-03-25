@@ -30,20 +30,21 @@ static const uint qt_meta_data_EditWidgetIcons[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      16,   32,   32,   32, 0x08,
-      33,   32,   32,   32, 0x08,
-      52,   84,   32,   32, 0x08,
-      92,   84,   32,   32, 0x08,
-     123,   32,   32,   32, 0x08,
-     155,   32,   32,   32, 0x08,
+      17,   16,   16,   16, 0x08,
+      33,   16,   16,   16, 0x08,
+      60,   52,   16,   16, 0x08,
+      92,   52,   16,   16, 0x08,
+     123,   16,   16,   16, 0x08,
+     155,   16,   16,   16, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EditWidgetIcons[] = {
-    "EditWidgetIcons\0addCustomIcon()\0\0"
-    "removeCustomIcon()\0updateWidgetsDefaultIcons(bool)\0"
-    "checked\0updateWidgetsCustomIcons(bool)\0"
+    "EditWidgetIcons\0\0addCustomIcon()\0"
+    "removeCustomIcon()\0checked\0"
+    "updateWidgetsDefaultIcons(bool)\0"
+    "updateWidgetsCustomIcons(bool)\0"
     "updateRadioButtonDefaultIcons()\0"
     "updateRadioButtonCustomIcons()\0"
 };

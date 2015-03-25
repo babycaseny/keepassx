@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>URL:</source>
-        <translation>網址:</translation>
+        <translation>網址：</translation>
     </message>
     <message>
         <source>Ge&amp;n.</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>Icon:</source>
-        <translation>圖示</translation>
+        <translation>圖示：</translation>
     </message>
     <message>
         <source>Never</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Group:</source>
-        <translation>群組</translation>
+        <translation>群組：</translation>
     </message>
     <message>
         <source>Title:</source>
@@ -263,27 +263,27 @@
     </message>
     <message>
         <source>Edit Entry</source>
-        <translation>编辑项目</translation>
+        <translation>編輯項目</translation>
     </message>
     <message>
         <source>Attachment:</source>
-        <translation>附件:</translation>
+        <translation>附件：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation>密碼：</translation>
     </message>
     <message>
         <source>Quality:</source>
-        <translation>质量:</translation>
+        <translation>質素：</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>用户名:</translation>
+        <translation>使用者：</translation>
     </message>
     <message>
         <source>Expires:</source>
-        <translation>失效日期:</translation>
+        <translation>失效日期：</translation>
     </message>
 </context>
 <context>
@@ -302,7 +302,7 @@
     </message>
     <message>
         <source>Various fixes and improvements</source>
-        <translation>各种各样的补丁和改进</translation>
+        <translation>各種各樣的修正和改進</translation>
     </message>
     <message>
         <source>Error</source>
@@ -310,39 +310,39 @@
     </message>
     <message>
         <source>Developer, Project Admin</source>
-        <translation>开发者、项目管理员</translation>
+        <translation>開發者、專案管理員</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation>译者</translation>
+        <translation>譯者</translation>
     </message>
     <message>
         <source>Information on how to translate KeePassX can be found under:</source>
-        <translation>有关如何翻译 KeePassX 的资料请参考:</translation>
+        <translation>有關如何翻譯 KeePassX 的資料請參考：</translation>
     </message>
     <message>
         <source>Current Translation</source>
-        <translation>当前翻译</translation>
+        <translation>當前翻譯</translation>
     </message>
     <message>
         <source>Thanks To</source>
-        <translation>感谢</translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <source>Make sure that the program is installed correctly.</source>
-        <translation>请确定此程序安装的完整性。</translation>
+        <translation>請確認程式已正確安裝。</translation>
     </message>
     <message>
         <source>Main Application Icon</source>
-        <translation>主应用程序图标</translation>
+        <translation>主應用程式圖示</translation>
     </message>
     <message>
         <source>Web Designer</source>
-        <translation>网站设计师</translation>
+        <translation>網站設計師</translation>
     </message>
     <message>
         <source>Patches for better MacOS X support</source>
-        <translation>提高 MacOS X 兼容性的补丁</translation>
+        <translation>提高 MacOS X 兼容度的修正</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>File &apos;%1&apos; could not be found.</source>
-        <translation>文件 &apos;%1&apos; 未找到。</translation>
+        <translation>文件 &apos;%1&apos; 未能找到。</translation>
     </message>
 </context>
 <context>
@@ -361,27 +361,27 @@
     </message>
     <message>
         <source>Error</source>
-        <translation>发生错误</translation>
+        <translation>發生錯誤</translation>
     </message>
     <message>
         <source>Twofish:  256 Bit</source>
-        <translation>双鱼算法: 256 位</translation>
+        <translation>雙魚算法: 256 位</translation>
     </message>
     <message>
         <source>AES(Rijndael):  256 Bit   (default)</source>
-        <translation>高级加密标准(Rijndael): 256 位 (默认)</translation>
+        <translation>高級加密標準(Rijndael): 256 位 (預設)</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not valid integer value.</source>
-        <translation>&apos;%1&apos;不是有效的整数值。</translation>
+        <translation>&apos;%1&apos;不是有效的整數值。</translation>
     </message>
     <message>
         <source>The number of encryption rounds have to be greater than 0.</source>
-        <translation>加密次数必需多于 0。</translation>
+        <translation>加密次數一定要比 0 大。</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>设置</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>Please determine the number of encryption rounds.</source>
-        <translation>请设定加密次数。</translation>
+        <translation>請決定加密次數。</translation>
     </message>
 </context>
 <context>

@@ -30,15 +30,15 @@ static const uint qt_meta_data_TestKeePass2RandomStream[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      25,   40,   40,   40, 0x08,
-      41,   40,   40,   40, 0x08,
+      26,   25,   25,   25, 0x08,
+      41,   25,   25,   25, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestKeePass2RandomStream[] = {
-    "TestKeePass2RandomStream\0initTestCase()\0"
-    "\0test()\0"
+    "TestKeePass2RandomStream\0\0initTestCase()\0"
+    "test()\0"
 };
 
 void TestKeePass2RandomStream::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

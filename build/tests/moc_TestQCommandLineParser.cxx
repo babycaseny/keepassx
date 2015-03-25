@@ -30,37 +30,37 @@ static const uint qt_meta_data_TestQCommandLineParser[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      23,   38,   38,   38, 0x0a,
-      39,   38,   38,   38, 0x08,
-      59,   38,   38,   38, 0x08,
-      80,   38,   38,   38, 0x08,
-     106,   38,   38,   38, 0x08,
-     131,   38,   38,   38, 0x08,
-     151,   38,   38,   38, 0x08,
-     176,   38,   38,   38, 0x08,
-     196,   38,   38,   38, 0x08,
-     225,   38,   38,   38, 0x08,
-     249,   38,   38,   38, 0x08,
-     267,   38,   38,   38, 0x08,
-     294,   38,   38,   38, 0x08,
-     332,   38,   38,   38, 0x08,
-     365,   38,   38,   38, 0x08,
-     387,   38,   38,   38, 0x08,
-     404,   38,   38,   38, 0x08,
-     423,   38,   38,   38, 0x08,
-     446,   38,   38,   38, 0x08,
-     466,   38,   38,   38, 0x08,
-     491,   38,   38,   38, 0x08,
-     516,   38,   38,   38, 0x08,
-     536,   38,   38,   38, 0x08,
-     573,   38,   38,   38, 0x08,
+      24,   23,   23,   23, 0x0a,
+      39,   23,   23,   23, 0x08,
+      59,   23,   23,   23, 0x08,
+      80,   23,   23,   23, 0x08,
+     106,   23,   23,   23, 0x08,
+     131,   23,   23,   23, 0x08,
+     151,   23,   23,   23, 0x08,
+     176,   23,   23,   23, 0x08,
+     196,   23,   23,   23, 0x08,
+     225,   23,   23,   23, 0x08,
+     249,   23,   23,   23, 0x08,
+     267,   23,   23,   23, 0x08,
+     294,   23,   23,   23, 0x08,
+     332,   23,   23,   23, 0x08,
+     365,   23,   23,   23, 0x08,
+     387,   23,   23,   23, 0x08,
+     404,   23,   23,   23, 0x08,
+     423,   23,   23,   23, 0x08,
+     446,   23,   23,   23, 0x08,
+     466,   23,   23,   23, 0x08,
+     491,   23,   23,   23, 0x08,
+     516,   23,   23,   23, 0x08,
+     536,   23,   23,   23, 0x08,
+     573,   23,   23,   23, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestQCommandLineParser[] = {
-    "TestQCommandLineParser\0initTestCase()\0"
-    "\0parsingModes_data()\0testInvalidOptions()\0"
+    "TestQCommandLineParser\0\0initTestCase()\0"
+    "parsingModes_data()\0testInvalidOptions()\0"
     "testPositionalArguments()\0"
     "testBooleanOption_data()\0testBooleanOption()\0"
     "testMultipleNames_data()\0testMultipleNames()\0"

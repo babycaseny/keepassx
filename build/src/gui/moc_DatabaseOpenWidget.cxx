@@ -30,24 +30,25 @@ static const uint qt_meta_data_DatabaseOpenWidget[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      19,   38,   47,   47, 0x05,
+      29,   20,   19,   19, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      48,   47,   47,   47, 0x09,
-      63,   47,   47,   47, 0x09,
-      72,   47,   47,   47, 0x08,
-      91,   47,   47,   47, 0x08,
-     109,   47,   47,   47, 0x08,
-     130,   47,   47,   47, 0x08,
+      48,   19,   19,   19, 0x09,
+      63,   19,   19,   19, 0x09,
+      72,   19,   19,   19, 0x08,
+      91,   19,   19,   19, 0x08,
+     109,   19,   19,   19, 0x08,
+     130,   19,   19,   19, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_DatabaseOpenWidget[] = {
-    "DatabaseOpenWidget\0editFinished(bool)\0"
-    "accepted\0\0openDatabase()\0reject()\0"
-    "activatePassword()\0activateKeyFile()\0"
-    "setOkButtonEnabled()\0browseKeyFile()\0"
+    "DatabaseOpenWidget\0\0accepted\0"
+    "editFinished(bool)\0openDatabase()\0"
+    "reject()\0activatePassword()\0"
+    "activateKeyFile()\0setOkButtonEnabled()\0"
+    "browseKeyFile()\0"
 };
 
 void DatabaseOpenWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

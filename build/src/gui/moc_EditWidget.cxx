@@ -30,14 +30,14 @@ static const uint qt_meta_data_EditWidget[] = {
        2,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      11,   22,   22,   22, 0x05,
-      23,   22,   22,   22, 0x05,
+      12,   11,   11,   11, 0x05,
+      23,   11,   11,   11, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EditWidget[] = {
-    "EditWidget\0accepted()\0\0rejected()\0"
+    "EditWidget\0\0accepted()\0rejected()\0"
 };
 
 void EditWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

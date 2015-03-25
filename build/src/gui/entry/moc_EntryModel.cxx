@@ -30,24 +30,24 @@ static const uint qt_meta_data_EntryModel[] = {
        2,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      11,   37,   37,   37, 0x05,
-      38,   37,   37,   37, 0x05,
+      12,   11,   11,   11, 0x05,
+      38,   11,   11,   11, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      60,   77,   37,   37, 0x0a,
-      83,  107,   37,   37, 0x08,
-     113,  107,   37,   37, 0x08,
-     132,  107,   37,   37, 0x08,
-     159,   37,   37,   37, 0x08,
-     174,  107,   37,   37, 0x08,
+      66,   60,   11,   11, 0x0a,
+      89,   83,   11,   11, 0x08,
+     113,   83,   11,   11, 0x08,
+     132,   83,   11,   11, 0x08,
+     159,   11,   11,   11, 0x08,
+     174,   83,   11,   11, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EntryModel[] = {
-    "EntryModel\0switchedToEntryListMode()\0"
-    "\0switchedToGroupMode()\0setGroup(Group*)\0"
-    "group\0entryAboutToAdd(Entry*)\0entry\0"
+    "EntryModel\0\0switchedToEntryListMode()\0"
+    "switchedToGroupMode()\0group\0"
+    "setGroup(Group*)\0entry\0entryAboutToAdd(Entry*)\0"
     "entryAdded(Entry*)\0entryAboutToRemove(Entry*)\0"
     "entryRemoved()\0entryDataChanged(Entry*)\0"
 };

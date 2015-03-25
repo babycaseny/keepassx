@@ -30,13 +30,13 @@ static const uint qt_meta_data_UnlockDatabaseWidget[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      21,   34,   34,   34, 0x08,
+      22,   21,   21,   21, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_UnlockDatabaseWidget[] = {
-    "UnlockDatabaseWidget\0clearForms()\0\0"
+    "UnlockDatabaseWidget\0\0clearForms()\0"
 };
 
 void UnlockDatabaseWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

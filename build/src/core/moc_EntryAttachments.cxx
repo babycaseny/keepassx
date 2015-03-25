@@ -30,24 +30,24 @@ static const uint qt_meta_data_EntryAttachments[] = {
        8,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      17,   28,   28,   28, 0x05,
-      29,   50,   28,   28, 0x05,
-      54,   50,   28,   28, 0x05,
-      78,   50,   28,   28, 0x05,
-      93,   50,   28,   28, 0x05,
-     119,   50,   28,   28, 0x05,
-     136,   28,   28,   28, 0x05,
-     153,   28,   28,   28, 0x05,
+      18,   17,   17,   17, 0x05,
+      33,   29,   17,   17, 0x05,
+      54,   29,   17,   17, 0x05,
+      78,   29,   17,   17, 0x05,
+      93,   29,   17,   17, 0x05,
+     119,   29,   17,   17, 0x05,
+     136,   17,   17,   17, 0x05,
+     153,   17,   17,   17, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EntryAttachments[] = {
-    "EntryAttachments\0modified()\0\0"
-    "keyModified(QString)\0key\0"
-    "aboutToBeAdded(QString)\0added(QString)\0"
-    "aboutToBeRemoved(QString)\0removed(QString)\0"
-    "aboutToBeReset()\0reset()\0"
+    "EntryAttachments\0\0modified()\0key\0"
+    "keyModified(QString)\0aboutToBeAdded(QString)\0"
+    "added(QString)\0aboutToBeRemoved(QString)\0"
+    "removed(QString)\0aboutToBeReset()\0"
+    "reset()\0"
 };
 
 void EntryAttachments::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

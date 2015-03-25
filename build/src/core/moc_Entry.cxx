@@ -30,19 +30,19 @@ static const uint qt_meta_data_Entry[] = {
        2,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-       6,   26,   32,   32, 0x05,
-      33,   32,   32,   32, 0x05,
+      13,    7,    6,    6, 0x05,
+      33,    6,    6,    6, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      44,   32,   32,   32, 0x08,
-      62,   32,   32,   32, 0x08,
-      79,   32,   32,   32, 0x08,
+      44,    6,    6,    6, 0x08,
+      62,    6,    6,    6, 0x08,
+      79,    6,    6,    6, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_Entry[] = {
-    "Entry\0dataChanged(Entry*)\0entry\0\0"
+    "Entry\0\0entry\0dataChanged(Entry*)\0"
     "modified()\0emitDataChanged()\0"
     "updateTimeinfo()\0updateModifiedSinceBegin()\0"
 };

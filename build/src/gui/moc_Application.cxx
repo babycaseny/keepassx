@@ -30,14 +30,13 @@ static const uint qt_meta_data_Application[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      12,   30,   39,   39, 0x05,
+      22,   13,   12,   12, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_Application[] = {
-    "Application\0openFile(QString)\0filename\0"
-    "\0"
+    "Application\0\0filename\0openFile(QString)\0"
 };
 
 void Application::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

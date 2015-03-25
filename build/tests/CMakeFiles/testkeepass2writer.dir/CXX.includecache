@@ -160,155 +160,233 @@ QString
 keys/Key.h
 ../src/keys/keys/Key.h
 
-/Users/nma/Source/keepassx/build/tests/moc_TestKeePass2Writer.cxx
+/home/tom/Desktop/Development/keepassx/build/tests/moc_TestKeePass2Writer.cxx
 ../../tests/TestKeePass2Writer.h
-/Users/nma/Source/keepassx/tests/TestKeePass2Writer.h
+/home/tom/Desktop/Development/keepassx/tests/TestKeePass2Writer.h
 
-/Users/nma/Source/keepassx/tests/TestKeePass2Writer.cpp
+/home/tom/Desktop/Development/keepassx/tests/TestKeePass2Writer.cpp
 TestKeePass2Writer.h
-/Users/nma/Source/keepassx/tests/TestKeePass2Writer.h
+/home/tom/Desktop/Development/keepassx/tests/TestKeePass2Writer.h
 QBuffer
 -
 QTest
 -
 tests.h
-/Users/nma/Source/keepassx/tests/tests.h
+/home/tom/Desktop/Development/keepassx/tests/tests.h
 core/Database.h
-/Users/nma/Source/keepassx/tests/core/Database.h
+/home/tom/Desktop/Development/keepassx/tests/core/Database.h
 core/Group.h
-/Users/nma/Source/keepassx/tests/core/Group.h
+/home/tom/Desktop/Development/keepassx/tests/core/Group.h
 core/Metadata.h
-/Users/nma/Source/keepassx/tests/core/Metadata.h
+/home/tom/Desktop/Development/keepassx/tests/core/Metadata.h
 crypto/Crypto.h
-/Users/nma/Source/keepassx/tests/crypto/Crypto.h
+/home/tom/Desktop/Development/keepassx/tests/crypto/Crypto.h
 format/KeePass2Reader.h
-/Users/nma/Source/keepassx/tests/format/KeePass2Reader.h
+/home/tom/Desktop/Development/keepassx/tests/format/KeePass2Reader.h
 format/KeePass2Writer.h
-/Users/nma/Source/keepassx/tests/format/KeePass2Writer.h
+/home/tom/Desktop/Development/keepassx/tests/format/KeePass2Writer.h
 keys/PasswordKey.h
-/Users/nma/Source/keepassx/tests/keys/PasswordKey.h
+/home/tom/Desktop/Development/keepassx/tests/keys/PasswordKey.h
 
-/Users/nma/Source/keepassx/tests/TestKeePass2Writer.h
+/home/tom/Desktop/Development/keepassx/tests/TestKeePass2Writer.h
 QObject
 -
 
-/Users/nma/Source/keepassx/tests/tests.h
+/home/tom/Desktop/Development/keepassx/tests/tests.h
 QTest
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QPoint
-qpoint.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qpoint.h
+/usr/include/qt4/Qt3Support/q3cstring.h
+QtCore/qbytearray.h
+-
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QPointF
-qpoint.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qpoint.h
+/usr/include/qt4/Qt3Support/q3valuelist.h
+QtCore/qalgorithms.h
+-
+QtCore/qdatastream.h
+-
+QtCore/qlinkedlist.h
+-
+QtCore/qlist.h
+-
+iterator
+-
+list
+-
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qalgorithms.h
+/usr/include/qt4/QtCore/QBuffer
+qbuffer.h
+/usr/include/qt4/QtCore/qbuffer.h
+
+/usr/include/qt4/QtCore/QByteArray
+qbytearray.h
+/usr/include/qt4/QtCore/qbytearray.h
+
+/usr/include/qt4/QtCore/QCoreApplication
+qcoreapplication.h
+/usr/include/qt4/QtCore/qcoreapplication.h
+
+/usr/include/qt4/QtCore/QDateTime
+qdatetime.h
+/usr/include/qt4/QtCore/qdatetime.h
+
+/usr/include/qt4/QtCore/QHash
+qhash.h
+/usr/include/qt4/QtCore/qhash.h
+
+/usr/include/qt4/QtCore/QList
+qlist.h
+/usr/include/qt4/QtCore/qlist.h
+
+/usr/include/qt4/QtCore/QMap
+qmap.h
+/usr/include/qt4/QtCore/qmap.h
+
+/usr/include/qt4/QtCore/QObject
+qobject.h
+/usr/include/qt4/QtCore/qobject.h
+
+/usr/include/qt4/QtCore/QPoint
+qpoint.h
+/usr/include/qt4/QtCore/qpoint.h
+
+/usr/include/qt4/QtCore/QPointF
+qpoint.h
+/usr/include/qt4/QtCore/qpoint.h
+
+/usr/include/qt4/QtCore/QPointer
+qpointer.h
+/usr/include/qt4/QtCore/qpointer.h
+
+/usr/include/qt4/QtCore/QSet
+qset.h
+/usr/include/qt4/QtCore/qset.h
+
+/usr/include/qt4/QtCore/QString
+qstring.h
+/usr/include/qt4/QtCore/qstring.h
+
+/usr/include/qt4/QtCore/QStringList
+qstringlist.h
+/usr/include/qt4/QtCore/qstringlist.h
+
+/usr/include/qt4/QtCore/QUrl
+qurl.h
+/usr/include/qt4/QtCore/qurl.h
+
+/usr/include/qt4/QtCore/QtGlobal
+qglobal.h
+/usr/include/qt4/QtCore/qglobal.h
+
+/usr/include/qt4/QtCore/qalgorithms.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic.h
+/usr/include/qt4/QtCore/qatomic.h
 QtCore/qglobal.h
 -
 QtCore/qbasicatomic.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_alpha.h
+/usr/include/qt4/QtCore/qatomic_aarch64.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_arch.h
+/usr/include/qt4/QtCore/qatomic_alpha.h
+
+/usr/include/qt4/QtCore/qatomic_arch.h
 QtCore/qglobal.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qglobal.h
+/usr/include/qt4/QtCore/QtCore/qglobal.h
 QtCore/qatomic_integrity.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_integrity.h
+/usr/include/qt4/QtCore/QtCore/qatomic_integrity.h
 QtCore/qatomic_vxworks.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_vxworks.h
+/usr/include/qt4/QtCore/QtCore/qatomic_vxworks.h
 QtCore/qatomic_alpha.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_alpha.h
+/usr/include/qt4/QtCore/QtCore/qatomic_alpha.h
 QtCore/qatomic_arm.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_arm.h
+/usr/include/qt4/QtCore/QtCore/qatomic_arm.h
 QtCore/qatomic_armv6.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_armv6.h
+/usr/include/qt4/QtCore/QtCore/qatomic_armv6.h
 QtCore/qatomic_avr32.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_avr32.h
+/usr/include/qt4/QtCore/QtCore/qatomic_avr32.h
 QtCore/qatomic_bfin.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_bfin.h
+/usr/include/qt4/QtCore/QtCore/qatomic_bfin.h
 QtCore/qatomic_generic.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_generic.h
+/usr/include/qt4/QtCore/QtCore/qatomic_generic.h
 QtCore/qatomic_i386.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_i386.h
+/usr/include/qt4/QtCore/QtCore/qatomic_i386.h
 QtCore/qatomic_ia64.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_ia64.h
+/usr/include/qt4/QtCore/QtCore/qatomic_ia64.h
 QtCore/qatomic_m68k.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_m68k.h
+/usr/include/qt4/QtCore/QtCore/qatomic_m68k.h
 QtCore/qatomic_macosx.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_macosx.h
+/usr/include/qt4/QtCore/QtCore/qatomic_macosx.h
 QtCore/qatomic_mips.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_mips.h
+/usr/include/qt4/QtCore/QtCore/qatomic_mips.h
 QtCore/qatomic_parisc.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_parisc.h
+/usr/include/qt4/QtCore/QtCore/qatomic_parisc.h
 QtCore/qatomic_powerpc.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_powerpc.h
+/usr/include/qt4/QtCore/QtCore/qatomic_powerpc.h
 QtCore/qatomic_s390.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_s390.h
+/usr/include/qt4/QtCore/QtCore/qatomic_s390.h
 QtCore/qatomic_sparc.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_sparc.h
+/usr/include/qt4/QtCore/QtCore/qatomic_sparc.h
 QtCore/qatomic_windows.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_windows.h
+/usr/include/qt4/QtCore/QtCore/qatomic_windows.h
 QtCore/qatomic_windowsce.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_windowsce.h
+/usr/include/qt4/QtCore/QtCore/qatomic_windowsce.h
 QtCore/qatomic_x86_64.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_x86_64.h
+/usr/include/qt4/QtCore/QtCore/qatomic_x86_64.h
 QtCore/qatomic_symbian.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_symbian.h
+/usr/include/qt4/QtCore/QtCore/qatomic_symbian.h
 QtCore/qatomic_sh.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_sh.h
+/usr/include/qt4/QtCore/QtCore/qatomic_sh.h
 QtCore/qatomic_sh4a.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_sh4a.h
+/usr/include/qt4/QtCore/QtCore/qatomic_sh4a.h
 QtCore/qatomic_generic.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_generic.h
+/usr/include/qt4/QtCore/QtCore/qatomic_generic.h
+QtCore/qatomic_aarch64.h
+/usr/include/qt4/QtCore/QtCore/qatomic_aarch64.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_arm.h
+/usr/include/qt4/QtCore/qatomic_arm.h
 QtCore/qatomic_armv7.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_armv7.h
+/usr/include/qt4/QtCore/QtCore/qatomic_armv7.h
 QtCore/qatomic_armv6.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_armv6.h
+/usr/include/qt4/QtCore/QtCore/qatomic_armv6.h
 QtCore/qatomic_armv5.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_armv5.h
+/usr/include/qt4/QtCore/QtCore/qatomic_armv5.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_armv5.h
+/usr/include/qt4/QtCore/qatomic_armv5.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_armv6.h
+/usr/include/qt4/QtCore/qatomic_armv6.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_armv7.h
+/usr/include/qt4/QtCore/qatomic_armv7.h
 QtCore/qatomic_armv6.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_armv6.h
+/usr/include/qt4/QtCore/QtCore/qatomic_armv6.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_avr32.h
+/usr/include/qt4/QtCore/qatomic_avr32.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_bfin.h
+/usr/include/qt4/QtCore/qatomic_bfin.h
 asm/fixed_code.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_bootstrap.h
+/usr/include/qt4/QtCore/qatomic_bootstrap.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_generic.h
+/usr/include/qt4/QtCore/qatomic_generic.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_i386.h
+/usr/include/qt4/QtCore/qatomic_i386.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_ia64.h
+/usr/include/qt4/QtCore/qatomic_ia64.h
 ia64intrin.h
 -
 ia64/sys/inline.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_integrity.h
+/usr/include/qt4/QtCore/qatomic_integrity.h
 INTEGRITY.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_m68k.h
+/usr/include/qt4/QtCore/qatomic_m68k.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_macosx.h
+/usr/include/qt4/QtCore/qatomic_macosx.h
 QtCore/qatomic_x86_64.h
 -
 QtCore/qatomic_i386.h
@@ -316,27 +394,27 @@ QtCore/qatomic_i386.h
 QtCore/qatomic_powerpc.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_mips.h
+/usr/include/qt4/QtCore/qatomic_mips.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_parisc.h
+/usr/include/qt4/QtCore/qatomic_parisc.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_powerpc.h
+/usr/include/qt4/QtCore/qatomic_powerpc.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_s390.h
+/usr/include/qt4/QtCore/qatomic_s390.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_sh.h
+/usr/include/qt4/QtCore/qatomic_sh.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_sh4a.h
+/usr/include/qt4/QtCore/qatomic_sh4a.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_sparc.h
+/usr/include/qt4/QtCore/qatomic_sparc.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_symbian.h
+/usr/include/qt4/QtCore/qatomic_symbian.h
 QtCore/qglobal.h
 -
 e32std.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_vxworks.h
+/usr/include/qt4/QtCore/qatomic_vxworks.h
 QtCore/qatomic_powerpc.h
 -
 vxWorksCommon.h
@@ -344,23 +422,23 @@ vxWorksCommon.h
 taskLib.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_windows.h
+/usr/include/qt4/QtCore/qatomic_windows.h
 QtCore/qatomic_i386.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_i386.h
+/usr/include/qt4/QtCore/QtCore/qatomic_i386.h
 QtCore/qatomic_x86_64.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_x86_64.h
+/usr/include/qt4/QtCore/QtCore/qatomic_x86_64.h
 winbase.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_windowsce.h
+/usr/include/qt4/QtCore/qatomic_windowsce.h
 QtCore/qglobal.h
 -
 QtCore/qatomic_windows.h
-/usr/local/Cellar/qt/4.8.6/include/QtCore/QtCore/qatomic_windows.h
+/usr/include/qt4/QtCore/QtCore/qatomic_windows.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qatomic_x86_64.h
+/usr/include/qt4/QtCore/qatomic_x86_64.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qbasicatomic.h
+/usr/include/qt4/QtCore/qbasicatomic.h
 QtCore/qglobal.h
 -
 QtCore/qatomic_bootstrap.h
@@ -368,13 +446,13 @@ QtCore/qatomic_bootstrap.h
 QtCore/qatomic_arch.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qbuffer.h
+/usr/include/qt4/QtCore/qbuffer.h
 QtCore/qiodevice.h
 -
 QtCore/qbytearray.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qbytearray.h
+/usr/include/qt4/QtCore/qbytearray.h
 QtCore/qatomic.h
 -
 QtCore/qnamespace.h
@@ -386,13 +464,13 @@ stdarg.h
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qchar.h
+/usr/include/qt4/QtCore/qchar.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qconfig.h
+/usr/include/qt4/QtCore/qconfig.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qcoreapplication.h
+/usr/include/qt4/QtCore/qcoreapplication.h
 QtCore/qobject.h
 -
 QtCore/qcoreevent.h
@@ -402,7 +480,7 @@ QtCore/qeventloop.h
 QtCore/qstringlist.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qcoreevent.h
+/usr/include/qt4/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
 QtCore/qbytearray.h
@@ -410,7 +488,7 @@ QtCore/qbytearray.h
 QtCore/qobjectdefs.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qdatastream.h
+/usr/include/qt4/QtCore/qdatastream.h
 QtCore/qscopedpointer.h
 -
 QtCore/qiodevice.h
@@ -418,7 +496,7 @@ QtCore/qiodevice.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qdatetime.h
+/usr/include/qt4/QtCore/qdatetime.h
 QtCore/qstring.h
 -
 QtCore/qnamespace.h
@@ -426,17 +504,17 @@ QtCore/qnamespace.h
 QtCore/qsharedpointer.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qelapsedtimer.h
+/usr/include/qt4/QtCore/qelapsedtimer.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qeventloop.h
+/usr/include/qt4/QtCore/qeventloop.h
 QtCore/qobject.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qfeatures.h
+/usr/include/qt4/QtCore/qfeatures.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qfile.h
+/usr/include/qt4/QtCore/qfile.h
 QtCore/qiodevice.h
 -
 QtCore/qstring.h
@@ -446,7 +524,7 @@ stdio.h
 f32file.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qglobal.h
+/usr/include/qt4/QtCore/qglobal.h
 stddef.h
 -
 QtCore/qconfig.h
@@ -462,7 +540,7 @@ e32def.h
 QtCore/qfeatures.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qhash.h
+/usr/include/qt4/QtCore/qhash.h
 QtCore/qatomic.h
 -
 QtCore/qchar.h
@@ -474,7 +552,7 @@ QtCore/qlist.h
 QtCore/qpair.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qiodevice.h
+/usr/include/qt4/QtCore/qiodevice.h
 QtCore/qobject.h
 -
 QtCore/qobjectdefs.h
@@ -484,17 +562,27 @@ QtCore/qscopedpointer.h
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qiterator.h
+/usr/include/qt4/QtCore/qiterator.h
 QtCore/qglobal.h
 -
 new
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qline.h
+/usr/include/qt4/QtCore/qline.h
 QtCore/qpoint.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qlist.h
+/usr/include/qt4/QtCore/qlinkedlist.h
+QtCore/qiterator.h
+-
+QtCore/qatomic.h
+-
+iterator
+-
+list
+-
+
+/usr/include/qt4/QtCore/qlist.h
 QtCore/qiterator.h
 -
 QtCore/qatomic.h
@@ -516,7 +604,7 @@ limits.h
 string.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qmap.h
+/usr/include/qt4/QtCore/qmap.h
 QtCore/qatomic.h
 -
 QtCore/qiterator.h
@@ -528,11 +616,11 @@ map
 new
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qmargins.h
+/usr/include/qt4/QtCore/qmargins.h
 QtCore/qnamespace.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qmetatype.h
+/usr/include/qt4/QtCore/qmetatype.h
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -540,17 +628,17 @@ QtCore/qatomic.h
 QtCore/qdatastream.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qmimedata.h
+/usr/include/qt4/QtCore/qmimedata.h
 QtCore/qvariant.h
 -
 QtCore/qobject.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qnamespace.h
+/usr/include/qt4/QtCore/qnamespace.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qobject.h
+/usr/include/qt4/QtCore/qobject.h
 QtCore/qobjectdefs.h
 -
 QtCore/qstring.h
@@ -564,49 +652,49 @@ QtCore/qcoreevent.h
 QtCore/qscopedpointer.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qobjectdefs.h
+/usr/include/qt4/QtCore/qobjectdefs.h
 QtCore/qnamespace.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qpair.h
+/usr/include/qt4/QtCore/qpair.h
 QtCore/qdatastream.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qpoint.h
+/usr/include/qt4/QtCore/qpoint.h
 QtCore/qnamespace.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qpointer.h
+/usr/include/qt4/QtCore/qpointer.h
 QtCore/qobject.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qrect.h
+/usr/include/qt4/QtCore/qrect.h
 QtCore/qsize.h
 -
 QtCore/qpoint.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qregexp.h
+/usr/include/qt4/QtCore/qregexp.h
 QtCore/qstring.h
 -
 new
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qscopedpointer.h
+/usr/include/qt4/QtCore/qscopedpointer.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qset.h
+/usr/include/qt4/QtCore/qset.h
 QtCore/qhash.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qshareddata.h
+/usr/include/qt4/QtCore/qshareddata.h
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qsharedpointer.h
+/usr/include/qt4/QtCore/qsharedpointer.h
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -616,7 +704,7 @@ QtCore/qshareddata.h
 QtCore/qsharedpointer_impl.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qsharedpointer_impl.h
+/usr/include/qt4/QtCore/qsharedpointer_impl.h
 new
 -
 QtCore/qatomic.h
@@ -624,11 +712,11 @@ QtCore/qatomic.h
 QtCore/qobject.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qsize.h
+/usr/include/qt4/QtCore/qsize.h
 QtCore/qnamespace.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qstring.h
+/usr/include/qt4/QtCore/qstring.h
 QtCore/qchar.h
 -
 QtCore/qbytearray.h
@@ -646,7 +734,7 @@ stdarg.h
 QtCore/qstringbuilder.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qstringbuilder.h
+/usr/include/qt4/QtCore/qstringbuilder.h
 QtCore/qstring.h
 -
 QtCore/qbytearray.h
@@ -656,7 +744,7 @@ QtCore/qmap.h
 string.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qstringlist.h
+/usr/include/qt4/QtCore/qstringlist.h
 QtCore/qalgorithms.h
 -
 QtCore/qdatastream.h
@@ -672,11 +760,11 @@ QtCore/qstringmatcher.h
 Qt3Support/q3valuelist.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qstringmatcher.h
+/usr/include/qt4/QtCore/qstringmatcher.h
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qurl.h
+/usr/include/qt4/QtCore/qurl.h
 QtCore/qbytearray.h
 -
 QtCore/qobjectdefs.h
@@ -688,7 +776,7 @@ QtCore/qstring.h
 QtCore/qhash.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qvariant.h
+/usr/include/qt4/QtCore/qvariant.h
 QtCore/qatomic.h
 -
 QtCore/qbytearray.h
@@ -704,7 +792,7 @@ QtCore/qhash.h
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtCore/qvector.h
+/usr/include/qt4/QtCore/qvector.h
 QtCore/qiterator.h
 -
 QtCore/qatomic.h
@@ -728,27 +816,27 @@ QtCore/QPointF
 QtCore/QPoint
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/QColor
+/usr/include/qt4/QtGui/QColor
 qcolor.h
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qcolor.h
+/usr/include/qt4/QtGui/qcolor.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/QImage
+/usr/include/qt4/QtGui/QImage
 qimage.h
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qimage.h
+/usr/include/qt4/QtGui/qimage.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/QPixmap
+/usr/include/qt4/QtGui/QPixmap
 qpixmap.h
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpixmap.h
+/usr/include/qt4/QtGui/qpixmap.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/QPixmapCache
+/usr/include/qt4/QtGui/QPixmapCache
 qpixmapcache.h
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpixmapcache.h
+/usr/include/qt4/QtGui/qpixmapcache.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/QPlatformWindow
+/usr/include/qt4/QtGui/QPlatformWindow
 qplatformwindow_qpa.h
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qplatformwindow_qpa.h
+/usr/include/qt4/QtGui/qplatformwindow_qpa.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qapplication.h
+/usr/include/qt4/QtGui/qapplication.h
 QtCore/qcoreapplication.h
 -
 QtGui/qwindowdefs.h
@@ -770,7 +858,7 @@ QtGui/qrgb.h
 QtGui/qtransportauth_qws.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qbrush.h
+/usr/include/qt4/QtGui/qbrush.h
 QtCore/qpair.h
 -
 QtCore/qpoint.h
@@ -790,7 +878,7 @@ QtGui/qimage.h
 QtGui/qpixmap.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qcolor.h
+/usr/include/qt4/QtGui/qcolor.h
 QtGui/qrgb.h
 -
 QtCore/qnamespace.h
@@ -798,21 +886,21 @@ QtCore/qnamespace.h
 QtCore/qstringlist.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qcursor.h
+/usr/include/qt4/QtGui/qcursor.h
 QtCore/qpoint.h
 -
 QtGui/qwindowdefs.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qdesktopwidget.h
+/usr/include/qt4/QtGui/qdesktopwidget.h
 QtGui/qwidget.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qdrag.h
+/usr/include/qt4/QtGui/qdrag.h
 QtCore/qobject.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qevent.h
+/usr/include/qt4/QtGui/qevent.h
 QtGui/qwindowdefs.h
 -
 QtCore/qobject.h
@@ -840,7 +928,7 @@ QtCore/qset.h
 QtCore/qfile.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qfont.h
+/usr/include/qt4/QtGui/qfont.h
 QtGui/qwindowdefs.h
 -
 QtCore/qstring.h
@@ -848,13 +936,13 @@ QtCore/qstring.h
 QtCore/qsharedpointer.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qfontinfo.h
+/usr/include/qt4/QtGui/qfontinfo.h
 QtGui/qfont.h
 -
 QtCore/qsharedpointer.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qfontmetrics.h
+/usr/include/qt4/QtGui/qfontmetrics.h
 QtGui/qfont.h
 -
 QtCore/qsharedpointer.h
@@ -862,7 +950,7 @@ QtCore/qsharedpointer.h
 QtCore/qrect.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qicon.h
+/usr/include/qt4/QtGui/qicon.h
 QtCore/qglobal.h
 -
 QtCore/qsize.h
@@ -872,7 +960,7 @@ QtCore/qlist.h
 QtGui/qpixmap.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qimage.h
+/usr/include/qt4/QtGui/qimage.h
 QtGui/qtransform.h
 -
 QtGui/qpaintdevice.h
@@ -886,19 +974,19 @@ QtCore/qrect.h
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qkeysequence.h
+/usr/include/qt4/QtGui/qkeysequence.h
 QtCore/qnamespace.h
 -
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qmacdefines_mac.h
+/usr/include/qt4/QtGui/qmacdefines_mac.h
 QtCore/qglobal.h
 -
 Cocoa/Cocoa.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qmatrix.h
+/usr/include/qt4/QtGui/qmatrix.h
 QtGui/qpolygon.h
 -
 QtGui/qregion.h
@@ -914,19 +1002,19 @@ QtCore/qrect.h
 QtGui/qwmatrix.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qmime.h
+/usr/include/qt4/QtGui/qmime.h
 QtCore/qmimedata.h
 -
 QtCore/qvariant.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpaintdevice.h
+/usr/include/qt4/QtGui/qpaintdevice.h
 QtGui/qwindowdefs.h
 -
 QtCore/qrect.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpainterpath.h
+/usr/include/qt4/QtGui/qpainterpath.h
 QtGui/qmatrix.h
 -
 QtCore/qglobal.h
@@ -940,7 +1028,7 @@ QtCore/qvector.h
 QtCore/qscopedpointer.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpalette.h
+/usr/include/qt4/QtGui/qpalette.h
 QtGui/qwindowdefs.h
 -
 QtGui/qcolor.h
@@ -948,7 +1036,7 @@ QtGui/qcolor.h
 QtGui/qbrush.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpixmap.h
+/usr/include/qt4/QtGui/qpixmap.h
 QtGui/qpaintdevice.h
 -
 QtGui/qcolor.h
@@ -964,13 +1052,13 @@ QtGui/qimage.h
 QtGui/qtransform.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpixmapcache.h
+/usr/include/qt4/QtGui/qpixmapcache.h
 QtGui/qpixmap.h
 -
 QtCore/qpair.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qplatformwindow_qpa.h
+/usr/include/qt4/QtGui/qplatformwindow_qpa.h
 QtCore/qscopedpointer.h
 -
 QtCore/qrect.h
@@ -980,11 +1068,11 @@ QtCore/qstring.h
 QtGui/qwindowdefs.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qplatformwindowformat_qpa.h
+/usr/include/qt4/QtGui/qplatformwindowformat_qpa.h
 QtGui/QPlatformWindow
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qpolygon.h
+/usr/include/qt4/QtGui/qpolygon.h
 QtCore/qvector.h
 -
 QtCore/qpoint.h
@@ -992,7 +1080,7 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qregion.h
+/usr/include/qt4/QtGui/qregion.h
 QtCore/qatomic.h
 -
 QtCore/qrect.h
@@ -1002,15 +1090,15 @@ QtGui/qwindowdefs.h
 QtCore/qdatastream.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qrgb.h
+/usr/include/qt4/QtGui/qrgb.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qsizepolicy.h
+/usr/include/qt4/QtGui/qsizepolicy.h
 QtCore/qobject.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qtransform.h
+/usr/include/qt4/QtGui/qtransform.h
 QtGui/qmatrix.h
 -
 QtGui/qpainterpath.h
@@ -1028,7 +1116,7 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qtransportauth_qws.h
+/usr/include/qt4/QtGui/qtransportauth_qws.h
 QtCore/qglobal.h
 -
 QtCore/qobject.h
@@ -1044,7 +1132,7 @@ QtCore/qpointer.h
 sys/types.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qwidget.h
+/usr/include/qt4/QtGui/qwidget.h
 QtCore/qconfig.h
 -
 QtGui/qwindowdefs.h
@@ -1078,7 +1166,7 @@ QtGui/qplatformwindowformat_qpa.h
 QtGui/qevent.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qwindowdefs.h
+/usr/include/qt4/QtGui/qwindowdefs.h
 QtCore/qobjectdefs.h
 -
 QtCore/qnamespace.h
@@ -1088,29 +1176,29 @@ QtGui/qmacdefines_mac.h
 QtGui/qwindowdefs_win.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qwindowdefs_win.h
+/usr/include/qt4/QtGui/qwindowdefs_win.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtGui/qwmatrix.h
+/usr/include/qt4/QtGui/qwmatrix.h
 QtGui/qmatrix.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/QTest
+/usr/include/qt4/QtTest/QTest
 qtest.h
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtest.h
+/usr/include/qt4/QtTest/qtest.h
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qbenchmark.h
+/usr/include/qt4/QtTest/qbenchmark.h
 QtTest/qtest_global.h
 -
 QtTest/qbenchmarkmetric.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qbenchmarkmetric.h
+/usr/include/qt4/QtTest/qbenchmarkmetric.h
 QtTest/qtest_global.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtest.h
+/usr/include/qt4/QtTest/qtest.h
 QtTest/qtest_global.h
 -
 QtTest/qtestcase.h
@@ -1146,11 +1234,11 @@ QtTest/qtestsystem.h
 QtTest/qtest_gui.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtest_global.h
+/usr/include/qt4/QtTest/qtest_global.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtest_gui.h
+/usr/include/qt4/QtTest/qtest_gui.h
 QtTest/qtestassert.h
 -
 QtTest/qtest.h
@@ -1168,11 +1256,11 @@ QtGui/qicon.h
 QtGui/qpixmap.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestassert.h
+/usr/include/qt4/QtTest/qtestassert.h
 QtCore/qglobal.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestcase.h
+/usr/include/qt4/QtTest/qtestcase.h
 QtTest/qtest_global.h
 -
 QtCore/qnamespace.h
@@ -1180,7 +1268,7 @@ QtCore/qnamespace.h
 QtCore/qmetatype.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestdata.h
+/usr/include/qt4/QtTest/qtestdata.h
 QtTest/qtest_global.h
 -
 QtCore/qmetatype.h
@@ -1188,7 +1276,7 @@ QtCore/qmetatype.h
 QtCore/qstring.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestevent.h
+/usr/include/qt4/QtTest/qtestevent.h
 QtTest/qtest_global.h
 -
 QtTest/qtestkeyboard.h
@@ -1202,7 +1290,7 @@ QtCore/qlist.h
 stdlib.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestkeyboard.h
+/usr/include/qt4/QtTest/qtestkeyboard.h
 QtTest/qtestassert.h
 -
 QtTest/qtest_global.h
@@ -1220,7 +1308,7 @@ QtGui/qevent.h
 QtGui/qwidget.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestmouse.h
+/usr/include/qt4/QtTest/qtestmouse.h
 QtTest/qtest_global.h
 -
 QtTest/qtestassert.h
@@ -1240,11 +1328,11 @@ QtGui/qevent.h
 QtGui/qwidget.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestspontaneevent.h
+/usr/include/qt4/QtTest/qtestspontaneevent.h
 QtCore/qcoreevent.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtestsystem.h
+/usr/include/qt4/QtTest/qtestsystem.h
 QtTest/qtestcase.h
 -
 QtCore/qcoreapplication.h
@@ -1252,7 +1340,7 @@ QtCore/qcoreapplication.h
 QtCore/qelapsedtimer.h
 -
 
-/usr/local/Cellar/qt/4.8.6/include/QtTest/qtesttouch.h
+/usr/include/qt4/QtTest/qtesttouch.h
 QtTest/qtest_global.h
 -
 QtTest/qtestassert.h
@@ -1266,227 +1354,5 @@ QtCore/qmap.h
 QtGui/qevent.h
 -
 QtGui/qwidget.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QBuffer
-qbuffer.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qbuffer.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QByteArray
-qbytearray.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qbytearray.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QCoreApplication
-qcoreapplication.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qcoreapplication.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QDateTime
-qdatetime.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qdatetime.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QHash
-qhash.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qhash.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QList
-qlist.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qlist.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QMap
-qmap.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qmap.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QObject
-qobject.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qobject.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QPointer
-qpointer.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qpointer.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QSet
-qset.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qset.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QString
-qstring.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qstring.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QStringList
-qstringlist.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qstringlist.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QUrl
-qurl.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qurl.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/QtGlobal
-qglobal.h
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qglobal.h
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qbuffer.h
-QtCore/qiodevice.h
--
-QtCore/qbytearray.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qbytearray.h
-QtCore/qatomic.h
--
-QtCore/qnamespace.h
--
-string.h
--
-stdarg.h
--
-QtCore/qstring.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qcoreapplication.h
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qstringlist.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qdatetime.h
-QtCore/qstring.h
--
-QtCore/qnamespace.h
--
-QtCore/qsharedpointer.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qglobal.h
-stddef.h
--
-QtCore/qconfig.h
--
-algorithm
--
-AvailabilityMacros.h
--
-utility
--
-e32def.h
--
-QtCore/qfeatures.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qhash.h
-QtCore/qatomic.h
--
-QtCore/qchar.h
--
-QtCore/qiterator.h
--
-QtCore/qlist.h
--
-QtCore/qpair.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qlist.h
-QtCore/qiterator.h
--
-QtCore/qatomic.h
--
-QtCore/qalgorithms.h
--
-iterator
--
-list
--
-iterator
--
-initializer_list
--
-new
--
-limits.h
--
-string.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qmap.h
-QtCore/qatomic.h
--
-QtCore/qiterator.h
--
-QtCore/qlist.h
--
-map
--
-new
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qobject.h
-QtCore/qobjectdefs.h
--
-QtCore/qstring.h
--
-QtCore/qbytearray.h
--
-QtCore/qlist.h
--
-QtCore/qcoreevent.h
--
-QtCore/qscopedpointer.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qpointer.h
-QtCore/qobject.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qset.h
-QtCore/qhash.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qstring.h
-QtCore/qchar.h
--
-QtCore/qbytearray.h
--
-QtCore/qatomic.h
--
-QtCore/qnamespace.h
--
-Qt3Support/q3cstring.h
--
-string
--
-stdarg.h
--
-QtCore/qstringbuilder.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qstringlist.h
-QtCore/qalgorithms.h
--
-QtCore/qdatastream.h
--
-QtCore/qlist.h
--
-QtCore/qregexp.h
--
-QtCore/qstring.h
--
-QtCore/qstringmatcher.h
--
-Qt3Support/q3valuelist.h
--
-
-/usr/local/Cellar/qt/4.8.6/lib/QtCore.framework/Headers/qurl.h
-QtCore/qbytearray.h
--
-QtCore/qobjectdefs.h
--
-QtCore/qpair.h
--
-QtCore/qstring.h
--
-QtCore/qhash.h
 -
 

@@ -30,22 +30,21 @@ static const uint qt_meta_data_DatabaseWidgetStateSync[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      24,   51,   60,   60, 0x0a,
-      61,   60,   60,   60, 0x0a,
-      79,   60,   60,   60, 0x0a,
-      99,   60,   60,   60, 0x08,
-     114,   60,   60,   60, 0x08,
-     136,   60,   60,   60, 0x08,
+      34,   25,   24,   24, 0x0a,
+      61,   24,   24,   24, 0x0a,
+      79,   24,   24,   24, 0x0a,
+      99,   24,   24,   24, 0x08,
+     114,   24,   24,   24, 0x08,
+     136,   24,   24,   24, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_DatabaseWidgetStateSync[] = {
-    "DatabaseWidgetStateSync\0"
-    "setActive(DatabaseWidget*)\0dbWidget\0"
-    "\0restoreListView()\0restoreSearchView()\0"
-    "blockUpdates()\0updateSplitterSizes()\0"
-    "updateColumnSizes()\0"
+    "DatabaseWidgetStateSync\0\0dbWidget\0"
+    "setActive(DatabaseWidget*)\0restoreListView()\0"
+    "restoreSearchView()\0blockUpdates()\0"
+    "updateSplitterSizes()\0updateColumnSizes()\0"
 };
 
 void DatabaseWidgetStateSync::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

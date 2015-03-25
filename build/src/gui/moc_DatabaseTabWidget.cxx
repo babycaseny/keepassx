@@ -30,56 +30,57 @@ static const uint qt_meta_data_DatabaseTabWidget[] = {
        3,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      18,   35,   35,   35, 0x05,
-      36,   68,   35,   35, 0x05,
-      77,  118,   35,   35, 0x05,
+      19,   18,   18,   18, 0x05,
+      45,   36,   18,   18, 0x05,
+      86,   77,   18,   18, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-     127,   35,   35,   35, 0x0a,
-     141,   35,   35,   35, 0x0a,
-     156,   35,   35,   35, 0x0a,
-     181,  199,   35,   35, 0x0a,
-     205,   35,   35,   35, 0x2a,
-     220,  199,   35,   35, 0x0a,
-     240,   35,   35,   35, 0x2a,
-     257,  199,  276,   35, 0x0a,
-     281,   35,  276,   35, 0x2a,
-     297,   35,   35,   35, 0x0a,
-     323,   35,  276,   35, 0x0a,
-     343,   35,   35,   35, 0x0a,
-     361,   35,   35,   35, 0x0a,
-     386,  199,  276,   35, 0x0a,
-     400,   35,  276,   35, 0x2a,
-     411,   35,   35,   35, 0x0a,
-     435,   35,   35,   35, 0x0a,
-     451,  476,   35,   35, 0x08,
-     479,   35,   35,   35, 0x08,
-     507,   35,   35,   35, 0x08,
-     541,   35,   35,   35, 0x08,
-     552,   35,   35,   35, 0x08,
-     567,  593,   35,   35, 0x08,
-     599,   35,   35,   35, 0x08,
+     127,   18,   18,   18, 0x0a,
+     141,   18,   18,   18, 0x0a,
+     156,   18,   18,   18, 0x0a,
+     187,  181,   18,   18, 0x0a,
+     205,   18,   18,   18, 0x2a,
+     220,  181,   18,   18, 0x0a,
+     240,   18,   18,   18, 0x2a,
+     262,  181,  257,   18, 0x0a,
+     281,   18,  257,   18, 0x2a,
+     297,   18,   18,   18, 0x0a,
+     323,   18,  257,   18, 0x0a,
+     343,   18,   18,   18, 0x0a,
+     361,   18,   18,   18, 0x0a,
+     386,  181,  257,   18, 0x0a,
+     400,   18,  257,   18, 0x2a,
+     411,   18,   18,   18, 0x0a,
+     435,   18,   18,   18, 0x0a,
+     454,  451,   18,   18, 0x08,
+     479,   18,   18,   18, 0x08,
+     507,   18,   18,   18, 0x08,
+     541,   18,   18,   18, 0x08,
+     552,   18,   18,   18, 0x08,
+     573,  567,   18,   18, 0x08,
+     599,   18,   18,   18, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_DatabaseTabWidget[] = {
-    "DatabaseTabWidget\0tabNameChanged()\0\0"
-    "databaseWithFileClosed(QString)\0"
-    "filePath\0activateDatabaseChanged(DatabaseWidget*)\0"
-    "dbWidget\0newDatabase()\0openDatabase()\0"
-    "importKeePass1Database()\0saveDatabase(int)\0"
-    "index\0saveDatabase()\0saveDatabaseAs(int)\0"
-    "saveDatabaseAs()\0closeDatabase(int)\0"
-    "bool\0closeDatabase()\0closeDatabaseFromSender()\0"
-    "closeAllDatabases()\0changeMasterKey()\0"
-    "changeDatabaseSettings()\0readOnly(int)\0"
-    "readOnly()\0performGlobalAutoType()\0"
-    "lockDatabases()\0updateTabName(Database*)\0"
-    "db\0updateTabNameFromDbSender()\0"
+    "DatabaseTabWidget\0\0tabNameChanged()\0"
+    "filePath\0databaseWithFileClosed(QString)\0"
+    "dbWidget\0activateDatabaseChanged(DatabaseWidget*)\0"
+    "newDatabase()\0openDatabase()\0"
+    "importKeePass1Database()\0index\0"
+    "saveDatabase(int)\0saveDatabase()\0"
+    "saveDatabaseAs(int)\0saveDatabaseAs()\0"
+    "bool\0closeDatabase(int)\0closeDatabase()\0"
+    "closeDatabaseFromSender()\0closeAllDatabases()\0"
+    "changeMasterKey()\0changeDatabaseSettings()\0"
+    "readOnly(int)\0readOnly()\0"
+    "performGlobalAutoType()\0lockDatabases()\0"
+    "db\0updateTabName(Database*)\0"
+    "updateTabNameFromDbSender()\0"
     "updateTabNameFromDbWidgetSender()\0"
-    "modified()\0toggleTabbar()\0"
-    "changeDatabase(Database*)\0newDb\0"
+    "modified()\0toggleTabbar()\0newDb\0"
+    "changeDatabase(Database*)\0"
     "emitActivateDatabaseChanged()\0"
 };
 

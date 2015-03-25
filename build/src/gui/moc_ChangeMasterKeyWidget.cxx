@@ -30,21 +30,21 @@ static const uint qt_meta_data_ChangeMasterKeyWidget[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      22,   41,   50,   50, 0x05,
+      32,   23,   22,   22, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      51,   50,   50,   50, 0x08,
-      65,   50,   50,   50, 0x08,
-      74,   50,   50,   50, 0x08,
-      90,   50,   50,   50, 0x08,
+      51,   22,   22,   22, 0x08,
+      65,   22,   22,   22, 0x08,
+      74,   22,   22,   22, 0x08,
+      90,   22,   22,   22, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_ChangeMasterKeyWidget[] = {
-    "ChangeMasterKeyWidget\0editFinished(bool)\0"
-    "accepted\0\0generateKey()\0reject()\0"
-    "createKeyFile()\0browseKeyFile()\0"
+    "ChangeMasterKeyWidget\0\0accepted\0"
+    "editFinished(bool)\0generateKey()\0"
+    "reject()\0createKeyFile()\0browseKeyFile()\0"
 };
 
 void ChangeMasterKeyWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

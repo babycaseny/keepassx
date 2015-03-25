@@ -30,19 +30,19 @@ static const uint qt_meta_data_DatabaseSettingsWidget[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      23,   42,   51,   51, 0x05,
+      33,   24,   23,   23, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      52,   51,   51,   51, 0x08,
-      59,   51,   51,   51, 0x08,
-      68,   51,   51,   51, 0x08,
+      52,   23,   23,   23, 0x08,
+      59,   23,   23,   23, 0x08,
+      68,   23,   23,   23, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_DatabaseSettingsWidget[] = {
-    "DatabaseSettingsWidget\0editFinished(bool)\0"
-    "accepted\0\0save()\0reject()\0"
+    "DatabaseSettingsWidget\0\0accepted\0"
+    "editFinished(bool)\0save()\0reject()\0"
     "transformRoundsBenchmark()\0"
 };
 

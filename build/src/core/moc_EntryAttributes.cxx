@@ -30,29 +30,30 @@ static const uint qt_meta_data_EntryAttributes[] = {
       11,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      16,   27,   27,   27, 0x05,
-      28,   27,   27,   27, 0x05,
-      49,   76,   27,   27, 0x05,
-      80,   76,   27,   27, 0x05,
-     104,   76,   27,   27, 0x05,
-     119,   76,   27,   27, 0x05,
-     145,   76,   27,   27, 0x05,
-     162,  193,   27,   27, 0x05,
-     207,  193,   27,   27, 0x05,
-     232,   27,   27,   27, 0x05,
-     249,   27,   27,   27, 0x05,
+      17,   16,   16,   16, 0x05,
+      28,   16,   16,   16, 0x05,
+      53,   49,   16,   16, 0x05,
+      80,   49,   16,   16, 0x05,
+     104,   49,   16,   16, 0x05,
+     119,   49,   16,   16, 0x05,
+     145,   49,   16,   16, 0x05,
+     176,  162,   16,   16, 0x05,
+     207,  162,   16,   16, 0x05,
+     232,   16,   16,   16, 0x05,
+     249,   16,   16,   16, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EntryAttributes[] = {
-    "EntryAttributes\0modified()\0\0"
-    "defaultKeyModified()\0customKeyModified(QString)\0"
-    "key\0aboutToBeAdded(QString)\0added(QString)\0"
+    "EntryAttributes\0\0modified()\0"
+    "defaultKeyModified()\0key\0"
+    "customKeyModified(QString)\0"
+    "aboutToBeAdded(QString)\0added(QString)\0"
     "aboutToBeRemoved(QString)\0removed(QString)\0"
-    "aboutToRename(QString,QString)\0"
-    "oldKey,newKey\0renamed(QString,QString)\0"
-    "aboutToBeReset()\0reset()\0"
+    "oldKey,newKey\0aboutToRename(QString,QString)\0"
+    "renamed(QString,QString)\0aboutToBeReset()\0"
+    "reset()\0"
 };
 
 void EntryAttributes::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

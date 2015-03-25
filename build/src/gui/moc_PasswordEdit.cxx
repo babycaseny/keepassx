@@ -30,19 +30,18 @@ static const uint qt_meta_data_PasswordEdit[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      13,   39,   44,   44, 0x05,
+      19,   14,   13,   13, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      45,   39,   44,   44, 0x0a,
-      67,   44,   44,   44, 0x08,
+      45,   14,   13,   13, 0x0a,
+      67,   13,   13,   13, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_PasswordEdit[] = {
-    "PasswordEdit\0showPasswordChanged(bool)\0"
-    "show\0\0setShowPassword(bool)\0"
-    "updateStylesheet()\0"
+    "PasswordEdit\0\0show\0showPasswordChanged(bool)\0"
+    "setShowPassword(bool)\0updateStylesheet()\0"
 };
 
 void PasswordEdit::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

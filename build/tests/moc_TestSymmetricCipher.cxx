@@ -30,17 +30,17 @@ static const uint qt_meta_data_TestSymmetricCipher[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      20,   35,   35,   35, 0x08,
-      36,   35,   35,   35, 0x08,
-      62,   35,   35,   35, 0x08,
-      88,   35,   35,   35, 0x08,
-     102,   35,   35,   35, 0x08,
+      21,   20,   20,   20, 0x08,
+      36,   20,   20,   20, 0x08,
+      62,   20,   20,   20, 0x08,
+      88,   20,   20,   20, 0x08,
+     102,   20,   20,   20, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestSymmetricCipher[] = {
-    "TestSymmetricCipher\0initTestCase()\0\0"
+    "TestSymmetricCipher\0\0initTestCase()\0"
     "testAes256CbcEncryption()\0"
     "testAes256CbcDecryption()\0testSalsa20()\0"
     "testPadding()\0"

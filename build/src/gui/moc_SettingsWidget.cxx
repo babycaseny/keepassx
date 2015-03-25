@@ -30,20 +30,20 @@ static const uint qt_meta_data_SettingsWidget[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      15,   34,   43,   43, 0x05,
+      25,   16,   15,   15, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      44,   43,   43,   43, 0x08,
-      59,   43,   43,   43, 0x08,
-      68,   95,   43,   43, 0x08,
+      44,   15,   15,   15, 0x08,
+      59,   15,   15,   15, 0x08,
+      76,   68,   15,   15, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_SettingsWidget[] = {
-    "SettingsWidget\0editFinished(bool)\0"
-    "accepted\0\0saveSettings()\0reject()\0"
-    "enableAutoSaveOnExit(bool)\0checked\0"
+    "SettingsWidget\0\0accepted\0editFinished(bool)\0"
+    "saveSettings()\0reject()\0checked\0"
+    "enableAutoSaveOnExit(bool)\0"
 };
 
 void SettingsWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

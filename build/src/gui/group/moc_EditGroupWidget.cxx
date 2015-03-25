@@ -30,18 +30,18 @@ static const uint qt_meta_data_EditGroupWidget[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      16,   35,   44,   44, 0x05,
+      26,   17,   16,   16, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      45,   44,   44,   44, 0x08,
-      52,   44,   44,   44, 0x08,
+      45,   16,   16,   16, 0x08,
+      52,   16,   16,   16, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EditGroupWidget[] = {
-    "EditGroupWidget\0editFinished(bool)\0"
-    "accepted\0\0save()\0cancel()\0"
+    "EditGroupWidget\0\0accepted\0editFinished(bool)\0"
+    "save()\0cancel()\0"
 };
 
 void EditGroupWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "ui_AboutDialog.h"
   "ui_ChangeMasterKeyWidget.h"
   "ui_DatabaseOpenWidget.h"
@@ -160,6 +160,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/keepassx_core.dir/streams/qtiocompressor.cpp.o"
   "CMakeFiles/keepassx_core.dir/streams/StoreDataStream.cpp.o"
   "CMakeFiles/keepassx_core.dir/streams/SymmetricCipherStream.cpp.o"
+  "CMakeFiles/keepassx_core.dir/crypto/salsa20/salsa20.c.o"
+  "CMakeFiles/keepassx_core.dir/crypto/SymmetricCipherSalsa20.cpp.o"
   "CMakeFiles/keepassx_core.dir/autotype/moc_AutoType.cxx.o"
   "CMakeFiles/keepassx_core.dir/autotype/moc_AutoTypeSelectDialog.cxx.o"
   "CMakeFiles/keepassx_core.dir/autotype/moc_AutoTypeSelectView.cxx.o"
@@ -221,6 +223,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/keepassx_core.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang C CXX)
+  INCLUDE(CMakeFiles/keepassx_core.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

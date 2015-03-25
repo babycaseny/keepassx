@@ -30,32 +30,32 @@ static const uint qt_meta_data_Database[] = {
       10,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-       9,   34,   40,   40, 0x05,
-      41,   69,   40,   40, 0x05,
-      81,   40,   40,   40, 0x05,
-      94,   34,   40,   40, 0x05,
-     121,   40,   40,   40, 0x05,
-     136,  172,   40,   40, 0x05,
-     192,   40,   40,   40, 0x05,
-     205,   40,   40,   40, 0x05,
-     223,   40,   40,   40, 0x05,
-     234,   40,   40,   40, 0x05,
+      16,   10,    9,    9, 0x05,
+      53,   41,    9,    9, 0x05,
+      81,    9,    9,    9, 0x05,
+      94,   10,    9,    9, 0x05,
+     121,    9,    9,    9, 0x05,
+     156,  136,    9,    9, 0x05,
+     192,    9,    9,    9, 0x05,
+     205,    9,    9,    9, 0x05,
+     223,    9,    9,    9, 0x05,
+     234,    9,    9,    9, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-     254,   40,   40,   40, 0x08,
+     254,    9,    9,    9, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_Database[] = {
-    "Database\0groupDataChanged(Group*)\0"
-    "group\0\0groupAboutToAdd(Group*,int)\0"
-    "group,index\0groupAdded()\0"
-    "groupAboutToRemove(Group*)\0groupRemoved()\0"
+    "Database\0\0group\0groupDataChanged(Group*)\0"
+    "group,index\0groupAboutToAdd(Group*,int)\0"
+    "groupAdded()\0groupAboutToRemove(Group*)\0"
+    "groupRemoved()\0group,toGroup,index\0"
     "groupAboutToMove(Group*,Group*,int)\0"
-    "group,toGroup,index\0groupMoved()\0"
-    "nameTextChanged()\0modified()\0"
-    "modifiedImmediate()\0startModifiedTimer()\0"
+    "groupMoved()\0nameTextChanged()\0"
+    "modified()\0modifiedImmediate()\0"
+    "startModifiedTimer()\0"
 };
 
 void Database::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

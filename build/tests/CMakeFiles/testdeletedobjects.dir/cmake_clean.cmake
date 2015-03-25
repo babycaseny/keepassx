@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "moc_TestDeletedObjects.cxx"
   "CMakeFiles/testdeletedobjects.dir/TestDeletedObjects.cpp.o"
   "CMakeFiles/testdeletedobjects.dir/moc_TestDeletedObjects.cxx.o"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/testdeletedobjects.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/testdeletedobjects.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

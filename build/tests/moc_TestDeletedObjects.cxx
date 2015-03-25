@@ -30,16 +30,16 @@ static const uint qt_meta_data_TestDeletedObjects[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      19,   34,   34,   34, 0x08,
-      35,   34,   34,   34, 0x08,
-      64,   34,   34,   34, 0x08,
-      94,   34,   34,   34, 0x08,
+      20,   19,   19,   19, 0x08,
+      35,   19,   19,   19, 0x08,
+      64,   19,   19,   19, 0x08,
+      94,   19,   19,   19, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestDeletedObjects[] = {
-    "TestDeletedObjects\0initTestCase()\0\0"
+    "TestDeletedObjects\0\0initTestCase()\0"
     "testDeletedObjectsFromFile()\0"
     "testDeletedObjectsFromNewDb()\0"
     "testDatabaseChange()\0"

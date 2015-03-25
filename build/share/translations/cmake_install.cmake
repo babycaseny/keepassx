@@ -1,43 +1,48 @@
-# Install script for directory: /Users/nma/Source/keepassx/share/translations
+# Install script for directory: /home/tom/Desktop/Development/keepassx/share/translations
 
 # Set the install prefix
-if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/Applications")
-endif()
-string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
+IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
+  SET(CMAKE_INSTALL_PREFIX "/usr/local")
+ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
+STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
 # Set the install configuration name.
-if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
-  if(BUILD_TYPE)
-    string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
+IF(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
+  IF(BUILD_TYPE)
+    STRING(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
-  else()
-    set(CMAKE_INSTALL_CONFIG_NAME "RelWithDebInfo")
-  endif()
-  message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
-endif()
+  ELSE(BUILD_TYPE)
+    SET(CMAKE_INSTALL_CONFIG_NAME "RelWithDebInfo")
+  ENDIF(BUILD_TYPE)
+  MESSAGE(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
+ENDIF(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
 
 # Set the component getting installed.
-if(NOT CMAKE_INSTALL_COMPONENT)
-  if(COMPONENT)
-    message(STATUS "Install component: \"${COMPONENT}\"")
-    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")
-  else()
-    set(CMAKE_INSTALL_COMPONENT)
-  endif()
-endif()
+IF(NOT CMAKE_INSTALL_COMPONENT)
+  IF(COMPONENT)
+    MESSAGE(STATUS "Install component: \"${COMPONENT}\"")
+    SET(CMAKE_INSTALL_COMPONENT "${COMPONENT}")
+  ELSE(COMPONENT)
+    SET(CMAKE_INSTALL_COMPONENT)
+  ENDIF(COMPONENT)
+ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
-if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/KeePassX.app/Contents/Resources/translations" TYPE FILE FILES
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx-bb_BK.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx-de.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx-ja_JP.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx-sv_SE.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx-zh_CN.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx-zh_TW.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx_en_plurals.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx_it.qm"
-    "/Users/nma/Source/keepassx/build/share/translations/keepassx_nl_NL.qm"
+# Install shared libraries without execute permission?
+IF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+  SET(CMAKE_INSTALL_SO_NO_EXE "1")
+ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/keepassx/translations" TYPE FILE FILES
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx-ja_JP.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx-zh_TW.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx-de.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx-zh_CN.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx_it.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx_en_plurals.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx_nl_NL.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx-bb_BK.qm"
+    "/home/tom/Desktop/Development/keepassx/build/share/translations/keepassx-sv_SE.qm"
     )
-endif()
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 

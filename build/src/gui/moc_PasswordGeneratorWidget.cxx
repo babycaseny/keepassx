@@ -30,22 +30,22 @@ static const uint qt_meta_data_PasswordGeneratorWidget[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      24,   45,   54,   54, 0x05,
+      34,   25,   24,   24, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      55,   45,   54,   54, 0x08,
-      83,   54,   54,   54, 0x08,
-     101,   54,   54,   54, 0x08,
-     116,   54,   54,   54, 0x08,
-     130,   54,   54,   54, 0x08,
-     147,   54,   54,   54, 0x08,
+      55,   25,   24,   24, 0x08,
+      83,   24,   24,   24, 0x08,
+     101,   24,   24,   24, 0x08,
+     116,   24,   24,   24, 0x08,
+     130,   24,   24,   24, 0x08,
+     147,   24,   24,   24, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_PasswordGeneratorWidget[] = {
-    "PasswordGeneratorWidget\0newPassword(QString)\0"
-    "password\0\0updateApplyEnabled(QString)\0"
+    "PasswordGeneratorWidget\0\0password\0"
+    "newPassword(QString)\0updateApplyEnabled(QString)\0"
     "emitNewPassword()\0saveSettings()\0"
     "sliderMoved()\0spinBoxChanged()\0"
     "updateGenerator()\0"

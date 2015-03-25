@@ -30,14 +30,13 @@ static const uint qt_meta_data_AutoTypeSelectView[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      19,   38,   38,   38, 0x08,
+      20,   19,   19,   19, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_AutoTypeSelectView[] = {
-    "AutoTypeSelectView\0selectFirstEntry()\0"
-    "\0"
+    "AutoTypeSelectView\0\0selectFirstEntry()\0"
 };
 
 void AutoTypeSelectView::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

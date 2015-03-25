@@ -30,20 +30,21 @@ static const uint qt_meta_data_EntryAttachmentsModel[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      22,   48,   52,   52, 0x08,
-      53,   48,   52,   52, 0x08,
-      83,   52,   52,   52, 0x08,
-      99,   48,   52,   52, 0x08,
-     132,   52,   52,   52, 0x08,
-     151,   52,   52,   52, 0x08,
-     166,   52,   52,   52, 0x08,
+      27,   23,   22,   22, 0x08,
+      53,   23,   22,   22, 0x08,
+      83,   22,   22,   22, 0x08,
+      99,   23,   22,   22, 0x08,
+     132,   22,   22,   22, 0x08,
+     151,   22,   22,   22, 0x08,
+     166,   22,   22,   22, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EntryAttachmentsModel[] = {
-    "EntryAttachmentsModel\0attachmentChange(QString)\0"
-    "key\0\0attachmentAboutToAdd(QString)\0"
+    "EntryAttachmentsModel\0\0key\0"
+    "attachmentChange(QString)\0"
+    "attachmentAboutToAdd(QString)\0"
     "attachmentAdd()\0attachmentAboutToRemove(QString)\0"
     "attachmentRemove()\0aboutToReset()\0"
     "reset()\0"

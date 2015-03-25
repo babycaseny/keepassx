@@ -30,14 +30,13 @@ static const uint qt_meta_data_AutoTypePlatformTest[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      21,   47,   47,   47, 0x05,
+      22,   21,   21,   21, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_AutoTypePlatformTest[] = {
-    "AutoTypePlatformTest\0globalShortcutTriggered()\0"
-    "\0"
+    "AutoTypePlatformTest\0\0globalShortcutTriggered()\0"
 };
 
 void AutoTypePlatformTest::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

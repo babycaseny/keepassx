@@ -30,20 +30,20 @@ static const uint qt_meta_data_TestGroup[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      10,   25,   25,   25, 0x08,
-      26,   25,   25,   25, 0x08,
-      42,   25,   25,   25, 0x08,
-      56,   25,   25,   25, 0x08,
-      70,   25,   25,   25, 0x08,
-      90,   25,   25,   25, 0x08,
-     111,   25,   25,   25, 0x08,
-     123,   25,   25,   25, 0x08,
+      11,   10,   10,   10, 0x08,
+      26,   10,   10,   10, 0x08,
+      42,   10,   10,   10, 0x08,
+      56,   10,   10,   10, 0x08,
+      70,   10,   10,   10, 0x08,
+      90,   10,   10,   10, 0x08,
+     111,   10,   10,   10, 0x08,
+     123,   10,   10,   10, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestGroup[] = {
-    "TestGroup\0initTestCase()\0\0testParenting()\0"
+    "TestGroup\0\0initTestCase()\0testParenting()\0"
     "testSignals()\0testEntries()\0"
     "testDeleteSignals()\0testCopyCustomIcon()\0"
     "testClone()\0testCopyCustomIcons()\0"

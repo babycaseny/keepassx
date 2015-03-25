@@ -30,37 +30,38 @@ static const uint qt_meta_data_ModelTest[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      10,   36,   36,   36, 0x08,
-      37,   36,   36,   36, 0x08,
-      48,   36,   36,   36, 0x08,
-      62,   36,   36,   36, 0x08,
-      73,   36,   36,   36, 0x08,
-      81,   36,   36,   36, 0x08,
-      90,   36,   36,   36, 0x08,
-      97,   36,   36,   36, 0x09,
-     111,   36,   36,   36, 0x09,
-     136,   36,   36,   36, 0x09,
-     152,  195,   36,   36, 0x09,
-     212,  195,   36,   36, 0x09,
-     246,  195,   36,   36, 0x09,
-     288,  195,   36,   36, 0x09,
-     321,  377,   36,   36, 0x09,
-     423,  377,   36,   36, 0x09,
+      11,   10,   10,   10, 0x08,
+      37,   10,   10,   10, 0x08,
+      48,   10,   10,   10, 0x08,
+      62,   10,   10,   10, 0x08,
+      73,   10,   10,   10, 0x08,
+      81,   10,   10,   10, 0x08,
+      90,   10,   10,   10, 0x08,
+      97,   10,   10,   10, 0x09,
+     111,   10,   10,   10, 0x09,
+     136,   10,   10,   10, 0x09,
+     169,  152,   10,   10, 0x09,
+     212,  152,   10,   10, 0x09,
+     246,  152,   10,   10, 0x09,
+     288,  152,   10,   10, 0x09,
+     367,  321,   10,   10, 0x09,
+     423,  321,   10,   10, 0x09,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_ModelTest[] = {
-    "ModelTest\0nonDestructiveBasicTest()\0"
-    "\0rowCount()\0columnCount()\0hasIndex()\0"
+    "ModelTest\0\0nonDestructiveBasicTest()\0"
+    "rowCount()\0columnCount()\0hasIndex()\0"
     "index()\0parent()\0data()\0runAllTests()\0"
     "layoutAboutToBeChanged()\0layoutChanged()\0"
+    "parent,start,end\0"
     "rowsAboutToBeInserted(QModelIndex,int,int)\0"
-    "parent,start,end\0rowsInserted(QModelIndex,int,int)\0"
+    "rowsInserted(QModelIndex,int,int)\0"
     "rowsAboutToBeRemoved(QModelIndex,int,int)\0"
     "rowsRemoved(QModelIndex,int,int)\0"
-    "rowsAboutToBeMoved(QModelIndex,int,int,QModelIndex,int)\0"
     "srcParent,start,end,destParent,destinationRow\0"
+    "rowsAboutToBeMoved(QModelIndex,int,int,QModelIndex,int)\0"
     "rowsMoved(QModelIndex,int,int,QModelIndex,int)\0"
 };
 

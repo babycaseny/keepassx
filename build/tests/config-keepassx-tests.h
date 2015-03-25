@@ -3,6 +3,6 @@
 #ifndef KEEPASSX_CONFIG_TESTS_H
 #define KEEPASSX_CONFIG_TESTS_H
 
-#define KEEPASSX_TEST_DATA_DIR "/Users/nma/Source/keepassx/tests/data"
+#define KEEPASSX_TEST_DATA_DIR "/home/tom/Desktop/Development/keepassx/tests/data"
 
 #endif // KEEPASSX_CONFIG_TESTS_H

@@ -30,14 +30,14 @@ static const uint qt_meta_data_TestWildcardMatcher[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      20,   34,   34,   34, 0x08,
-      35,   34,   34,   34, 0x08,
+      21,   20,   20,   20, 0x08,
+      35,   20,   20,   20, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestWildcardMatcher[] = {
-    "TestWildcardMatcher\0testMatcher()\0\0"
+    "TestWildcardMatcher\0\0testMatcher()\0"
     "testMatcher_data()\0"
 };
 

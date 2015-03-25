@@ -30,66 +30,67 @@ static const uint qt_meta_data_EditEntryWidget[] = {
        2,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      16,   35,   44,   44, 0x05,
-      45,   75,   44,   44, 0x05,
+      26,   17,   16,   16, 0x05,
+      51,   45,   16,   16, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      81,   44,   44,   44, 0x08,
-      93,   44,   44,   44, 0x08,
-     102,  138,   44,   44, 0x08,
-     146,  176,   44,   44, 0x08,
-     185,   44,   44,   44, 0x08,
-     203,   44,   44,   44, 0x08,
-     226,   44,   44,   44, 0x08,
-     251,   44,   44,   44, 0x08,
-     276,   44,   44,   44, 0x08,
-     295,   44,   44,   44, 0x08,
-     319,  347,   44,   44, 0x08,
-     353,   44,   44,   44, 0x08,
-     377,   44,   44,   44, 0x08,
-     403,   44,   44,   44, 0x08,
-     427,   44,   44,   44, 0x08,
-     449,   44,   44,   44, 0x08,
-     471,  501,   44,   44, 0x08,
-     509,   44,   44,   44, 0x08,
-     529,   44,   44,   44, 0x08,
-     549,   44,   44,   44, 0x08,
-     568,   44,   44,   44, 0x08,
-     590,   44,   44,   44, 0x08,
-     611,   44,   44,   44, 0x08,
-     637,  347,   44,   44, 0x08,
-     676,  347,   44,   44, 0x08,
-     708,  754,   44,   44, 0x08,
-     771,  797,   44,   44, 0x08,
-     804,  501,   44,   44, 0x08,
+      81,   16,   16,   16, 0x08,
+      93,   16,   16,   16, 0x08,
+     110,  102,   16,   16, 0x08,
+     155,  146,   16,   16, 0x08,
+     185,   16,   16,   16, 0x08,
+     203,   16,   16,   16, 0x08,
+     226,   16,   16,   16, 0x08,
+     251,   16,   16,   16, 0x08,
+     276,   16,   16,   16, 0x08,
+     295,   16,   16,   16, 0x08,
+     325,  319,   16,   16, 0x08,
+     353,   16,   16,   16, 0x08,
+     377,   16,   16,   16, 0x08,
+     403,   16,   16,   16, 0x08,
+     427,   16,   16,   16, 0x08,
+     449,   16,   16,   16, 0x08,
+     479,  471,   16,   16, 0x08,
+     509,   16,   16,   16, 0x08,
+     529,   16,   16,   16, 0x08,
+     549,   16,   16,   16, 0x08,
+     568,   16,   16,   16, 0x08,
+     590,   16,   16,   16, 0x08,
+     611,   16,   16,   16, 0x08,
+     637,  319,   16,   16, 0x08,
+     676,  319,   16,   16, 0x08,
+     725,  708,   16,   16, 0x08,
+     778,  771,   16,   16, 0x08,
+     804,  471,   16,   16, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EditEntryWidget[] = {
-    "EditEntryWidget\0editFinished(bool)\0"
-    "accepted\0\0historyEntryActivated(Entry*)\0"
-    "entry\0saveEntry()\0cancel()\0"
+    "EditEntryWidget\0\0accepted\0editFinished(bool)\0"
+    "entry\0historyEntryActivated(Entry*)\0"
+    "saveEntry()\0cancel()\0checked\0"
     "togglePasswordGeneratorButton(bool)\0"
-    "checked\0setGeneratedPassword(QString)\0"
-    "password\0insertAttribute()\0"
-    "editCurrentAttribute()\0removeCurrentAttribute()\0"
+    "password\0setGeneratedPassword(QString)\0"
+    "insertAttribute()\0editCurrentAttribute()\0"
+    "removeCurrentAttribute()\0"
     "updateCurrentAttribute()\0insertAttachment()\0"
-    "saveCurrentAttachment()\0"
-    "openAttachment(QModelIndex)\0index\0"
+    "saveCurrentAttachment()\0index\0"
+    "openAttachment(QModelIndex)\0"
     "openCurrentAttachment()\0"
     "removeCurrentAttachment()\0"
     "updateAutoTypeEnabled()\0insertAutoTypeAssoc()\0"
-    "removeAutoTypeAssoc()\0"
-    "loadCurrentAssoc(QModelIndex)\0current\0"
+    "removeAutoTypeAssoc()\0current\0"
+    "loadCurrentAssoc(QModelIndex)\0"
     "clearCurrentAssoc()\0applyCurrentAssoc()\0"
     "showHistoryEntry()\0restoreHistoryEntry()\0"
     "deleteHistoryEntry()\0deleteAllHistoryEntries()\0"
     "emitHistoryEntryActivated(QModelIndex)\0"
     "histEntryActivated(QModelIndex)\0"
+    "current,previous\0"
     "updateHistoryButtons(QModelIndex,QModelIndex)\0"
-    "current,previous\0useExpiryPreset(QAction*)\0"
-    "action\0updateAttachmentButtonsEnabled(QModelIndex)\0"
+    "action\0useExpiryPreset(QAction*)\0"
+    "updateAttachmentButtonsEnabled(QModelIndex)\0"
 };
 
 void EditEntryWidget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

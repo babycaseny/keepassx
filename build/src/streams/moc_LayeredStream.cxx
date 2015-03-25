@@ -30,13 +30,13 @@ static const uint qt_meta_data_LayeredStream[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      14,   28,   28,   28, 0x08,
+      15,   14,   14,   14, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_LayeredStream[] = {
-    "LayeredStream\0closeStream()\0\0"
+    "LayeredStream\0\0closeStream()\0"
 };
 
 void LayeredStream::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

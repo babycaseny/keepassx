@@ -30,20 +30,20 @@ static const uint qt_meta_data_AutoTypeSelectDialog[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      21,   52,   67,   67, 0x05,
+      37,   22,   21,   21, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      68,  100,   67,   67, 0x08,
-     106,   67,   67,   67, 0x08,
+      74,   68,   21,   21, 0x08,
+     106,   21,   21,   21, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_AutoTypeSelectDialog[] = {
-    "AutoTypeSelectDialog\0"
-    "entryActivated(Entry*,QString)\0"
-    "entry,sequence\0\0emitEntryActivated(QModelIndex)\0"
-    "index\0entryRemoved()\0"
+    "AutoTypeSelectDialog\0\0entry,sequence\0"
+    "entryActivated(Entry*,QString)\0index\0"
+    "emitEntryActivated(QModelIndex)\0"
+    "entryRemoved()\0"
 };
 
 void AutoTypeSelectDialog::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

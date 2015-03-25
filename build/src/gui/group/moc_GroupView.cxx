@@ -30,25 +30,25 @@ static const uint qt_meta_data_GroupView[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      10,   31,   37,   37, 0x05,
+      17,   11,   10,   10, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      38,   67,   37,   37, 0x08,
-      73,   67,   37,   37, 0x08,
-     103,   37,   37,   37, 0x08,
-     122,  161,   37,   37, 0x08,
-     178,   37,   37,   37, 0x08,
+      44,   38,   10,   10, 0x08,
+      73,   38,   10,   10, 0x08,
+     103,   10,   10,   10, 0x08,
+     139,  122,   10,   10, 0x08,
+     178,   10,   10,   10, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_GroupView[] = {
-    "GroupView\0groupChanged(Group*)\0group\0"
-    "\0expandedChanged(QModelIndex)\0index\0"
+    "GroupView\0\0group\0groupChanged(Group*)\0"
+    "index\0expandedChanged(QModelIndex)\0"
     "emitGroupChanged(QModelIndex)\0"
-    "emitGroupChanged()\0"
+    "emitGroupChanged()\0parent,start,end\0"
     "syncExpandedState(QModelIndex,int,int)\0"
-    "parent,start,end\0modelReset()\0"
+    "modelReset()\0"
 };
 
 void GroupView::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

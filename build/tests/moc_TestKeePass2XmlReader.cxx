@@ -30,27 +30,27 @@ static const uint qt_meta_data_TestKeePass2XmlReader[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      22,   37,   37,   37, 0x08,
-      38,   37,   37,   37, 0x08,
-      53,   37,   37,   37, 0x08,
-      71,   37,   37,   37, 0x08,
-      88,   37,   37,   37, 0x08,
-     104,   37,   37,   37, 0x08,
-     117,   37,   37,   37, 0x08,
-     130,   37,   37,   37, 0x08,
-     143,   37,   37,   37, 0x08,
-     156,   37,   37,   37, 0x08,
-     175,   37,   37,   37, 0x08,
-     196,   37,   37,   37, 0x08,
-     209,   37,   37,   37, 0x08,
-     227,   37,   37,   37, 0x08,
+      23,   22,   22,   22, 0x08,
+      38,   22,   22,   22, 0x08,
+      53,   22,   22,   22, 0x08,
+      71,   22,   22,   22, 0x08,
+      88,   22,   22,   22, 0x08,
+     104,   22,   22,   22, 0x08,
+     117,   22,   22,   22, 0x08,
+     130,   22,   22,   22, 0x08,
+     143,   22,   22,   22, 0x08,
+     156,   22,   22,   22, 0x08,
+     175,   22,   22,   22, 0x08,
+     196,   22,   22,   22, 0x08,
+     209,   22,   22,   22, 0x08,
+     227,   22,   22,   22, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestKeePass2XmlReader[] = {
-    "TestKeePass2XmlReader\0initTestCase()\0"
-    "\0testMetadata()\0testCustomIcons()\0"
+    "TestKeePass2XmlReader\0\0initTestCase()\0"
+    "testMetadata()\0testCustomIcons()\0"
     "testCustomData()\0testGroupRoot()\0"
     "testGroup1()\0testGroup2()\0testEntry1()\0"
     "testEntry2()\0testEntryHistory()\0"

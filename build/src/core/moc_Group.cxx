@@ -30,30 +30,29 @@ static const uint qt_meta_data_Group[] = {
       13,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-       6,   26,   32,   32, 0x05,
-      33,   56,   32,   32, 0x05,
-      68,   32,   32,   32, 0x05,
-      76,   26,   32,   32, 0x05,
-      98,   32,   32,   32, 0x05,
-     108,  139,   32,   32, 0x05,
-     159,   32,   32,   32, 0x05,
-     167,  191,   32,   32, 0x05,
-     197,  191,   32,   32, 0x05,
-     216,  191,   32,   32, 0x05,
-     243,  191,   32,   32, 0x05,
-     264,  191,   32,   32, 0x05,
-     289,   32,   32,   32, 0x05,
+      13,    7,    6,    6, 0x05,
+      45,   33,    6,    6, 0x05,
+      68,    6,    6,    6, 0x05,
+      76,    7,    6,    6, 0x05,
+      98,    6,    6,    6, 0x05,
+     128,  108,    6,    6, 0x05,
+     159,    6,    6,    6, 0x05,
+     173,  167,    6,    6, 0x05,
+     197,  167,    6,    6, 0x05,
+     216,  167,    6,    6, 0x05,
+     243,  167,    6,    6, 0x05,
+     264,  167,    6,    6, 0x05,
+     289,    6,    6,    6, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_Group[] = {
-    "Group\0dataChanged(Group*)\0group\0\0"
-    "aboutToAdd(Group*,int)\0group,index\0"
+    "Group\0\0group\0dataChanged(Group*)\0"
+    "group,index\0aboutToAdd(Group*,int)\0"
     "added()\0aboutToRemove(Group*)\0removed()\0"
-    "aboutToMove(Group*,Group*,int)\0"
-    "group,toGroup,index\0moved()\0"
-    "entryAboutToAdd(Entry*)\0entry\0"
+    "group,toGroup,index\0aboutToMove(Group*,Group*,int)\0"
+    "moved()\0entry\0entryAboutToAdd(Entry*)\0"
     "entryAdded(Entry*)\0entryAboutToRemove(Entry*)\0"
     "entryRemoved(Entry*)\0entryDataChanged(Entry*)\0"
     "modified()\0"

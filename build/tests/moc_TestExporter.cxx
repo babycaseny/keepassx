@@ -30,14 +30,14 @@ static const uint qt_meta_data_TestExporter[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      13,   28,   28,   28, 0x08,
-      29,   28,   28,   28, 0x08,
+      14,   13,   13,   13, 0x08,
+      29,   13,   13,   13, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestExporter[] = {
-    "TestExporter\0initTestCase()\0\0"
+    "TestExporter\0\0initTestCase()\0"
     "testToDbExporter()\0"
 };
 

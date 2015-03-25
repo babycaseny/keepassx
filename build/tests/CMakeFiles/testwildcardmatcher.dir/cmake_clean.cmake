@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "moc_TestWildcardMatcher.cxx"
   "CMakeFiles/testwildcardmatcher.dir/TestWildcardMatcher.cpp.o"
   "CMakeFiles/testwildcardmatcher.dir/moc_TestWildcardMatcher.cxx.o"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/testwildcardmatcher.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/testwildcardmatcher.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

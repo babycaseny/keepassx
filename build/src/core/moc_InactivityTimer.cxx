@@ -30,17 +30,17 @@ static const uint qt_meta_data_InactivityTimer[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      16,   37,   37,   37, 0x05,
+      17,   16,   16,   16, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      38,   37,   37,   37, 0x08,
+      38,   16,   16,   16, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_InactivityTimer[] = {
-    "InactivityTimer\0inactivityDetected()\0"
-    "\0timeout()\0"
+    "InactivityTimer\0\0inactivityDetected()\0"
+    "timeout()\0"
 };
 
 void InactivityTimer::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

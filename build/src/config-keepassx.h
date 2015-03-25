@@ -5,15 +5,15 @@
 
 #define KEEPASSX_VERSION "2.0 alpha 6"
 
-#define KEEPASSX_SOURCE_DIR "/Users/nma/Source/keepassx"
-#define KEEPASSX_BINARY_DIR "/Users/nma/Source/keepassx/build"
+#define KEEPASSX_SOURCE_DIR "/home/tom/Desktop/Development/keepassx"
+#define KEEPASSX_BINARY_DIR "/home/tom/Desktop/Development/keepassx/build"
 
-#define KEEPASSX_PLUGIN_DIR "."
+#define KEEPASSX_PLUGIN_DIR "lib/x86_64-linux-gnu/keepassx"
 
-/* #undef HAVE_PR_SET_DUMPABLE */
+#define HAVE_PR_SET_DUMPABLE 1
 #define HAVE_RLIMIT_CORE 1
-#define HAVE_PT_DENY_ATTACH 1
+/* #undef HAVE_PT_DENY_ATTACH */
 
-#define GCRYPT_HAS_SALSA20
+/* #undef GCRYPT_HAS_SALSA20 */
 
 #endif // KEEPASSX_CONFIG_KEEPASSX_H

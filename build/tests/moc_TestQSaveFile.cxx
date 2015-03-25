@@ -30,17 +30,17 @@ static const uint qt_meta_data_TestQSaveFile[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      14,   35,   35,   35, 0x08,
-      36,   35,   35,   35, 0x08,
-      48,   35,   35,   35, 0x08,
-      82,   35,   35,   35, 0x08,
-     111,   35,   35,   35, 0x08,
+      15,   14,   14,   14, 0x08,
+      36,   14,   14,   14, 0x08,
+      48,   14,   14,   14, 0x08,
+      82,   14,   14,   14, 0x08,
+     111,   14,   14,   14, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestQSaveFile[] = {
-    "TestQSaveFile\0transactionalWrite()\0\0"
+    "TestQSaveFile\0\0transactionalWrite()\0"
     "autoFlush()\0transactionalWriteNoPermissions()\0"
     "transactionalWriteCanceled()\0"
     "transactionalWriteErrorRenaming()\0"

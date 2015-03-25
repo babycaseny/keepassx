@@ -30,14 +30,14 @@ static const uint qt_meta_data_Metadata[] = {
        2,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-       9,   27,   27,   27, 0x05,
-      28,   27,   27,   27, 0x05,
+      10,    9,    9,    9, 0x05,
+      28,    9,    9,    9, 0x05,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_Metadata[] = {
-    "Metadata\0nameTextChanged()\0\0modified()\0"
+    "Metadata\0\0nameTextChanged()\0modified()\0"
 };
 
 void Metadata::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

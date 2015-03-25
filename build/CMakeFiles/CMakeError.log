@@ -1,49 +1,24 @@
-Determining if the Q_WS_X11 exist failed with the following output:
-Change Dir: /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTryCompileExec166973823/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTryCompileExec166973823.dir/build.make CMakeFiles/cmTryCompileExec166973823.dir/build
-/usr/local/Cellar/cmake/3.2.1/bin/cmake -E cmake_progress_report /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec166973823.dir/CheckSymbolExists.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -std=c++0x  -I/usr/local/Cellar/qt/4.8.6/include -F/usr/local/Cellar/qt/4.8.6/lib    -o CMakeFiles/cmTryCompileExec166973823.dir/CheckSymbolExists.cxx.o -c /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'Q_WS_X11'
-  return ((int*)(&Q_WS_X11))[argc];
-                  ^
-1 error generated.
-make[1]: *** [CMakeFiles/cmTryCompileExec166973823.dir/CheckSymbolExists.cxx.o] Error 1
-make: *** [cmTryCompileExec166973823/fast] Error 2
-
-File /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
-/* */
-#include <QtCore/qglobal.h>
-
-int main(int argc, char** argv)
-{
-  (void)argv;
-#ifndef Q_WS_X11
-  return ((int*)(&Q_WS_X11))[argc];
-#else
-  (void)argc;
-  return 0;
-#endif
-}
-
 Determining if the Q_WS_WIN exist failed with the following output:
-Change Dir: /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp
+Change Dir: /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTryCompileExec3328012726/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTryCompileExec3328012726.dir/build.make CMakeFiles/cmTryCompileExec3328012726.dir/build
-/usr/local/Cellar/cmake/3.2.1/bin/cmake -E cmake_progress_report /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec3328012726.dir/CheckSymbolExists.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -std=c++0x  -I/usr/local/Cellar/qt/4.8.6/include -F/usr/local/Cellar/qt/4.8.6/lib    -o CMakeFiles/cmTryCompileExec3328012726.dir/CheckSymbolExists.cxx.o -c /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'Q_WS_WIN'
-  return ((int*)(&Q_WS_WIN))[argc];
-                  ^
-1 error generated.
-make[1]: *** [CMakeFiles/cmTryCompileExec3328012726.dir/CheckSymbolExists.cxx.o] Error 1
-make: *** [cmTryCompileExec3328012726/fast] Error 2
+Run Build Command:/usr/bin/make "cmTryCompileExec1175110449/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1175110449.dir/build.make CMakeFiles/cmTryCompileExec1175110449.dir/build
+make[1]: Entering directory `/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1175110449.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -Wcast-align -std=c++0x  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec1175110449.dir/CheckSymbolExists.cxx.o -c /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:27: warning: use of old-style cast [-Wold-style-cast]
+   return ((int*)(&Q_WS_WIN))[argc];
+                           ^
+make[1]: Leaving directory `/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec1175110449.dir/CheckSymbolExists.cxx.o] Error 1
+make: *** [cmTryCompileExec1175110449/fast] Error 2
 
-File /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+File /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
 /* */
 #include <QtCore/qglobal.h>
 
@@ -59,21 +34,26 @@ int main(int argc, char** argv)
 }
 
 Determining if the Q_WS_QWS exist failed with the following output:
-Change Dir: /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp
+Change Dir: /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTryCompileExec3081365486/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTryCompileExec3081365486.dir/build.make CMakeFiles/cmTryCompileExec3081365486.dir/build
-/usr/local/Cellar/cmake/3.2.1/bin/cmake -E cmake_progress_report /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec3081365486.dir/CheckSymbolExists.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -std=c++0x  -I/usr/local/Cellar/qt/4.8.6/include -F/usr/local/Cellar/qt/4.8.6/lib    -o CMakeFiles/cmTryCompileExec3081365486.dir/CheckSymbolExists.cxx.o -c /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'Q_WS_QWS'
-  return ((int*)(&Q_WS_QWS))[argc];
-                  ^
-1 error generated.
-make[1]: *** [CMakeFiles/cmTryCompileExec3081365486.dir/CheckSymbolExists.cxx.o] Error 1
-make: *** [cmTryCompileExec3081365486/fast] Error 2
+Run Build Command:/usr/bin/make "cmTryCompileExec731049312/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec731049312.dir/build.make CMakeFiles/cmTryCompileExec731049312.dir/build
+make[1]: Entering directory `/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec731049312.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -Wcast-align -std=c++0x  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec731049312.dir/CheckSymbolExists.cxx.o -c /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:27: warning: use of old-style cast [-Wold-style-cast]
+   return ((int*)(&Q_WS_QWS))[argc];
+                           ^
+make[1]: Leaving directory `/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec731049312.dir/CheckSymbolExists.cxx.o] Error 1
+make: *** [cmTryCompileExec731049312/fast] Error 2
 
-File /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+File /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
 /* */
 #include <QtCore/qglobal.h>
 
@@ -88,21 +68,38 @@ int main(int argc, char** argv)
 #endif
 }
 
-Performing C++ SOURCE FILE Test HAVE_PR_SET_DUMPABLE failed with the following output:
-Change Dir: /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTryCompileExec1444492426/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTryCompileExec1444492426.dir/build.make CMakeFiles/cmTryCompileExec1444492426.dir/build
-/usr/local/Cellar/cmake/3.2.1/bin/cmake -E cmake_progress_report /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec1444492426.dir/src.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -std=c++0x -DHAVE_PR_SET_DUMPABLE   -o CMakeFiles/cmTryCompileExec1444492426.dir/src.cxx.o -c /Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/src.cxx
-/Users/nma/Source/keepassx/build/CMakeFiles/CMakeTmp/src.cxx:1:10: fatal error: 'sys/prctl.h' file not found
-#include <sys/prctl.h>
-         ^
-1 error generated.
-make[1]: *** [CMakeFiles/cmTryCompileExec1444492426.dir/src.cxx.o] Error 1
-make: *** [cmTryCompileExec1444492426/fast] Error 2
+Run Build Command:/usr/bin/make "cmTryCompileExec2791344023/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2791344023.dir/build.make CMakeFiles/cmTryCompileExec2791344023.dir/build
+make[1]: Entering directory `/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2791344023.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fno-common -fstack-protector --param=ssp-buffer-size=4 -Wall -Wextra -Wundef -Wpointer-arith -Wno-long-long -Wformat=2 -Wmissing-format-attribute -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-rtti -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror=format-security -Wcast-align -std=c++0x  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec2791344023.dir/CheckSymbolExists.cxx.o -c /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^
+/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:27: warning: use of old-style cast [-Wold-style-cast]
+   return ((int*)(&Q_WS_MAC))[argc];
+                           ^
+make[1]: Leaving directory `/home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec2791344023.dir/CheckSymbolExists.cxx.o] Error 1
+make: *** [cmTryCompileExec2791344023/fast] Error 2
 
-Source file was:
-#include <sys/prctl.h>
-    int main() { prctl(PR_SET_DUMPABLE, 0); return 0; }
+File /home/tom/Desktop/Development/keepassx/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

@@ -30,14 +30,14 @@ static const uint qt_meta_data_TestGroupModel[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      15,   30,   30,   30, 0x08,
-      31,   30,   30,   30, 0x08,
+      16,   15,   15,   15, 0x08,
+      31,   15,   15,   15, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestGroupModel[] = {
-    "TestGroupModel\0initTestCase()\0\0test()\0"
+    "TestGroupModel\0\0initTestCase()\0test()\0"
 };
 
 void TestGroupModel::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

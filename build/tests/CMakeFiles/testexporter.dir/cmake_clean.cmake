@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "moc_TestExporter.cxx"
   "CMakeFiles/testexporter.dir/TestExporter.cpp.o"
   "CMakeFiles/testexporter.dir/moc_TestExporter.cxx.o"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/testexporter.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/testexporter.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

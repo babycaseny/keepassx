@@ -30,23 +30,22 @@ static const uint qt_meta_data_AutoType[] = {
        1,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-       9,   35,   35,   35, 0x05,
+      10,    9,    9,    9, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-      36,   76,   35,   35, 0x0a,
-      83,  125,   35,   35, 0x08,
-     140,   35,   35,   35, 0x08,
-     158,   35,   35,   35, 0x08,
+      43,   36,    9,    9, 0x0a,
+      98,   83,    9,    9, 0x08,
+     140,    9,    9,    9, 0x08,
+     158,    9,    9,    9, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_AutoType[] = {
-    "AutoType\0globalShortcutTriggered()\0\0"
-    "performGlobalAutoType(QList<Database*>)\0"
-    "dbList\0performAutoTypeFromGlobal(Entry*,QString)\0"
-    "entry,sequence\0resetInAutoType()\0"
-    "unloadPlugin()\0"
+    "AutoType\0\0globalShortcutTriggered()\0"
+    "dbList\0performGlobalAutoType(QList<Database*>)\0"
+    "entry,sequence\0performAutoTypeFromGlobal(Entry*,QString)\0"
+    "resetInAutoType()\0unloadPlugin()\0"
 };
 
 void AutoType::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)

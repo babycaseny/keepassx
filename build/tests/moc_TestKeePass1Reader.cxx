@@ -30,24 +30,24 @@ static const uint qt_meta_data_TestKeePass1Reader[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      19,   34,   34,   34, 0x08,
-      35,   34,   34,   34, 0x08,
-      47,   34,   34,   34, 0x08,
-      63,   34,   34,   34, 0x08,
-      81,   34,   34,   34, 0x08,
-     101,   34,   34,   34, 0x08,
-     116,   34,   34,   34, 0x08,
-     130,   34,   34,   34, 0x08,
-     149,   34,   34,   34, 0x08,
-     168,   34,   34,   34, 0x08,
-     182,   34,   34,   34, 0x08,
-     203,   34,   34,   34, 0x08,
+      20,   19,   19,   19, 0x08,
+      35,   19,   19,   19, 0x08,
+      47,   19,   19,   19, 0x08,
+      63,   19,   19,   19, 0x08,
+      81,   19,   19,   19, 0x08,
+     101,   19,   19,   19, 0x08,
+     116,   19,   19,   19, 0x08,
+     130,   19,   19,   19, 0x08,
+     149,   19,   19,   19, 0x08,
+     168,   19,   19,   19, 0x08,
+     182,   19,   19,   19, 0x08,
+     203,   19,   19,   19, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_TestKeePass1Reader[] = {
-    "TestKeePass1Reader\0initTestCase()\0\0"
+    "TestKeePass1Reader\0\0initTestCase()\0"
     "testBasic()\0testMasterKey()\0"
     "testCustomIcons()\0testGroupExpanded()\0"
     "testAutoType()\0testFileKey()\0"

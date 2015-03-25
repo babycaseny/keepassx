@@ -30,26 +30,27 @@ static const uint qt_meta_data_EntryAttributesModel[] = {
        0,       // signalCount
 
  // slots: signature, parameters, type, tag, flags
-      21,   46,   50,   50, 0x08,
-      51,   46,   50,   50, 0x08,
-      80,   50,   50,   50, 0x08,
-      95,   46,   50,   50, 0x08,
-     127,   50,   50,   50, 0x08,
-     145,  185,   50,   50, 0x08,
-     199,  185,   50,   50, 0x08,
-     232,   50,   50,   50, 0x08,
-     247,   50,   50,   50, 0x08,
+      26,   22,   21,   21, 0x08,
+      51,   22,   21,   21, 0x08,
+      80,   21,   21,   21, 0x08,
+      95,   22,   21,   21, 0x08,
+     127,   21,   21,   21, 0x08,
+     159,  145,   21,   21, 0x08,
+     199,  145,   21,   21, 0x08,
+     232,   21,   21,   21, 0x08,
+     247,   21,   21,   21, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_EntryAttributesModel[] = {
-    "EntryAttributesModel\0attributeChange(QString)\0"
-    "key\0\0attributeAboutToAdd(QString)\0"
+    "EntryAttributesModel\0\0key\0"
+    "attributeChange(QString)\0"
+    "attributeAboutToAdd(QString)\0"
     "attributeAdd()\0attributeAboutToRemove(QString)\0"
-    "attributeRemove()\0"
+    "attributeRemove()\0oldKey,newKey\0"
     "attributeAboutToRename(QString,QString)\0"
-    "oldKey,newKey\0attributeRename(QString,QString)\0"
+    "attributeRename(QString,QString)\0"
     "aboutToReset()\0reset()\0"
 };
 

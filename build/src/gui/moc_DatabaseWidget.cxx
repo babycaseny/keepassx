@@ -30,104 +30,102 @@ static const uint qt_meta_data_DatabaseWidget[] = {
       14,       // signalCount
 
  // signals: signature, parameters, type, tag, flags
-      15,   30,   30,   30, 0x05,
-      31,   72,   30,   30, 0x05,
-      77,   30,   30,   30, 0x05,
-      92,   30,   30,   30, 0x05,
-     116,  143,   30,   30, 0x05,
-     149,  183,   30,   30, 0x05,
-     193,  183,   30,   30, 0x05,
-     227,   30,   30,   30, 0x05,
-     246,   30,   30,   30, 0x05,
-     272,   30,   30,   30, 0x05,
-     292,   30,   30,   30, 0x05,
-     320,   30,   30,   30, 0x05,
-     342,   30,   30,   30, 0x05,
-     365,   30,   30,   30, 0x05,
+      16,   15,   15,   15, 0x05,
+      36,   31,   15,   15, 0x05,
+      77,   15,   15,   15, 0x05,
+      92,   15,   15,   15, 0x05,
+     122,  116,   15,   15, 0x05,
+     159,  149,   15,   15, 0x05,
+     193,  149,   15,   15, 0x05,
+     227,   15,   15,   15, 0x05,
+     246,   15,   15,   15, 0x05,
+     272,   15,   15,   15, 0x05,
+     292,   15,   15,   15, 0x05,
+     320,   15,   15,   15, 0x05,
+     342,   15,   15,   15, 0x05,
+     365,   15,   15,   15, 0x05,
 
  // slots: signature, parameters, type, tag, flags
-     391,   30,   30,   30, 0x0a,
-     405,   30,   30,   30, 0x0a,
-     418,   30,   30,   30, 0x0a,
-     434,   30,   30,   30, 0x0a,
-     446,   30,   30,   30, 0x0a,
-     461,   30,   30,   30, 0x0a,
-     476,   30,   30,   30, 0x0a,
-     486,   30,   30,   30, 0x0a,
-     498,  522,   30,   30, 0x0a,
-     529,   30,   30,   30, 0x0a,
-     547,   30,   30,   30, 0x0a,
-     557,  581,   30,   30, 0x0a,
-     587,   30,   30,   30, 0x0a,
-     601,   30,   30,   30, 0x0a,
-     615,   30,   30,   30, 0x0a,
-     635,   30,   30,   30, 0x0a,
-     655,   30,   30,   30, 0x0a,
-     681,   30,   30,   30, 0x0a,
-     708,  738,   30,   30, 0x0a,
-     747,  793,   30,   30, 0x0a,
-     819,  738,   30,   30, 0x0a,
-     851,   30,   30,   30, 0x0a,
-     864,  926,   30,   30, 0x08,
-     939,   30,   30,   30, 0x08,
-     963,  982,   30,   30, 0x08,
-     991,  581,   30,   30, 0x08,
-    1019,  581,   30,   30, 0x08,
-    1045, 1076,   30,   30, 0x08,
-    1089, 1076,   30,   30, 0x08,
-    1120, 1158,   30,   30, 0x08,
-    1162, 1158,   30,   30, 0x08,
-    1200,  982,   30,   30, 0x08,
-    1222,  982,   30,   30, 0x08,
-    1241,  982,   30,   30, 0x08,
-    1262,   30,   30,   30, 0x08,
-    1287, 1310,   30,   30, 0x08,
-    1316,   30,   30,   30, 0x08,
-    1325,   30,   30,   30, 0x08,
-    1339,   30,   30,   30, 0x08,
-    1358,   30,   30,   30, 0x08,
-    1371,   30,   30,   30, 0x08,
+     391,   15,   15,   15, 0x0a,
+     405,   15,   15,   15, 0x0a,
+     418,   15,   15,   15, 0x0a,
+     434,   15,   15,   15, 0x0a,
+     446,   15,   15,   15, 0x0a,
+     461,   15,   15,   15, 0x0a,
+     476,   15,   15,   15, 0x0a,
+     486,   15,   15,   15, 0x0a,
+     505,  498,   15,   15, 0x0a,
+     529,   15,   15,   15, 0x0a,
+     547,   15,   15,   15, 0x0a,
+     563,  557,   15,   15, 0x0a,
+     587,   15,   15,   15, 0x0a,
+     601,   15,   15,   15, 0x0a,
+     615,   15,   15,   15, 0x0a,
+     635,   15,   15,   15, 0x0a,
+     655,   15,   15,   15, 0x0a,
+     681,   15,   15,   15, 0x0a,
+     717,  708,   15,   15, 0x0a,
+     773,  747,   15,   15, 0x0a,
+     819,  708,   15,   15, 0x0a,
+     851,   15,   15,   15, 0x0a,
+     877,  864,   15,   15, 0x08,
+     939,   15,   15,   15, 0x08,
+     972,  963,   15,   15, 0x08,
+     991,  557,   15,   15, 0x08,
+    1019,  557,   15,   15, 0x08,
+    1058, 1045,   15,   15, 0x08,
+    1089, 1045,   15,   15, 0x08,
+    1124, 1120,   15,   15, 0x08,
+    1162, 1120,   15,   15, 0x08,
+    1200,  963,   15,   15, 0x08,
+    1222,  963,   15,   15, 0x08,
+    1241,  963,   15,   15, 0x08,
+    1262,   15,   15,   15, 0x08,
+    1293, 1287,   15,   15, 0x08,
+    1316,   15,   15,   15, 0x08,
+    1325,   15,   15,   15, 0x08,
+    1339,   15,   15,   15, 0x08,
+    1358,   15,   15,   15, 0x08,
+    1371,   15,   15,   15, 0x08,
 
        0        // eod
 };
 
 static const char qt_meta_stringdata_DatabaseWidget[] = {
-    "DatabaseWidget\0closeRequest()\0\0"
+    "DatabaseWidget\0\0closeRequest()\0mode\0"
     "currentModeChanged(DatabaseWidget::Mode)\0"
-    "mode\0groupChanged()\0entrySelectionChanged()\0"
-    "databaseChanged(Database*)\0newDb\0"
-    "groupContextMenuRequested(QPoint)\0"
-    "globalPos\0entryContextMenuRequested(QPoint)\0"
+    "groupChanged()\0entrySelectionChanged()\0"
+    "newDb\0databaseChanged(Database*)\0"
+    "globalPos\0groupContextMenuRequested(QPoint)\0"
+    "entryContextMenuRequested(QPoint)\0"
     "unlockedDatabase()\0listModeAboutToActivate()\0"
     "listModeActivated()\0searchModeAboutToActivate()\0"
     "searchModeActivated()\0splitterSizesChanged()\0"
     "entryColumnSizesChanged()\0createEntry()\0"
     "cloneEntry()\0deleteEntries()\0copyTitle()\0"
     "copyUsername()\0copyPassword()\0copyURL()\0"
-    "copyNotes()\0copyAttribute(QAction*)\0"
-    "action\0performAutoType()\0openUrl()\0"
-    "openUrlForEntry(Entry*)\0entry\0"
-    "createGroup()\0deleteGroup()\0"
-    "switchToEntryEdit()\0switchToGroupEdit()\0"
-    "switchToMasterKeyChange()\0"
-    "switchToDatabaseSettings()\0"
-    "switchToOpenDatabase(QString)\0fileName\0"
-    "switchToOpenDatabase(QString,QString,QString)\0"
+    "copyNotes()\0action\0copyAttribute(QAction*)\0"
+    "performAutoType()\0openUrl()\0entry\0"
+    "openUrlForEntry(Entry*)\0createGroup()\0"
+    "deleteGroup()\0switchToEntryEdit()\0"
+    "switchToGroupEdit()\0switchToMasterKeyChange()\0"
+    "switchToDatabaseSettings()\0fileName\0"
+    "switchToOpenDatabase(QString)\0"
     "fileName,password,keyFile\0"
+    "switchToOpenDatabase(QString,QString,QString)\0"
     "switchToImportKeepass1(QString)\0"
-    "openSearch()\0"
+    "openSearch()\0entry,column\0"
     "entryActivationSignalReceived(Entry*,EntryModel::ModelColumn)\0"
-    "entry,column\0switchBackToEntryEdit()\0"
-    "switchToView(bool)\0accepted\0"
-    "switchToHistoryView(Entry*)\0"
-    "switchToEntryEdit(Entry*)\0"
+    "switchBackToEntryEdit()\0accepted\0"
+    "switchToView(bool)\0switchToHistoryView(Entry*)\0"
+    "switchToEntryEdit(Entry*)\0entry,create\0"
     "switchToEntryEdit(Entry*,bool)\0"
-    "entry,create\0switchToGroupEdit(Group*,bool)\0"
+    "switchToGroupEdit(Group*,bool)\0pos\0"
     "emitGroupContextMenuRequested(QPoint)\0"
-    "pos\0emitEntryContextMenuRequested(QPoint)\0"
+    "emitEntryContextMenuRequested(QPoint)\0"
     "updateMasterKey(bool)\0openDatabase(bool)\0"
     "unlockDatabase(bool)\0emitCurrentModeChanged()\0"
-    "clearLastGroup(Group*)\0group\0search()\0"
+    "group\0clearLastGroup(Group*)\0search()\0"
     "startSearch()\0startSearchTimer()\0"
     "showSearch()\0closeSearch()\0"
 };
